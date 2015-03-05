@@ -1,0 +1,16 @@
+body {
+	margin:20px;
+	font: 100px;
+	background-color:white; 
+}
+
+input[type=text] {
+	background-color: white;
+	border:.2px white;
+	font-family: avenir;
+}
+
+.firsti {
+	width:45%;
+
+}

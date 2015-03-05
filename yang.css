@@ -1,0 +1,17 @@
+a:link {
+    color: #5cf000;
+}
+
+/* selected link */
+a:active {
+    color: yellow;
+}
+
+a:hover {
+    color: black;
+    border-bottom: dotted .5px;
+}
+
+.water{
+	margin-top: 20px;
+}

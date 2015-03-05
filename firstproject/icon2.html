@@ -1,0 +1,338 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Wash-Pay-Dry</title>
+		<link rel='stylesheet' type='text/css' href='laundry.css'>
+		 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+	</head>
+	<body>
+		<!-- wash pay dry -->
+		<audio id="wash" src="audio/wash.mp3"></audio>
+		<audio id="pay" src="audio/pay.mp3"></audio>
+		<audio id="dry" src="audio/dry.mp3"></audio>
+		<div="header">
+		<h1 class="wash audio" 
+			span style="cursor:progress"
+			onmouseover="document.getElementById('wash').play()" onmouseout="document.getElementById('wash').pause()">
+			<span class="header-left">WASH</span>
+		</h1>
+		<h1 class="pay"
+			span style="cursor:progress"
+			onmouseover="document.getElementById('pay').play()" onmouseout="document.getElementById('pay').pause()">
+			<span class="header-top">PAY</span>
+		</h1>
+		<h1 class="dry"
+			span style="cursor:progress"
+			onmouseover="document.getElementById('dry').play()" onmouseout="document.getElementById('dry').pause()">
+			<span class="header-right">DRY</span>
+		</h1>
+		</div>
+		<!-- symbols -->
+		<div class="wrapper">
+			<div class="column">
+				<div class ="container">
+					<h1 class="appear">Iron at any temperature</h1>
+						<div class="link iron1" data-windows="[
+						['html/blackjean1.html', 303, 420, 100, 100], 
+						['html/linetowel1.html', 348, 480, 150, 150],
+						['html/perse1.html', 288, 400, 200, 200], 
+						['html/towelline1.html', 348, 480, 250, 250],
+						['html/towelline5.html', 348, 480, 300, 300],
+						['html/yellowtowel1.html', 408, 560, 350, 350],
+						['html/towelline5.html', 348, 480, 400, 400],
+						['html/towelline5.html', 348, 480, 450, 450],
+						['html/towelline5.html', 348, 480, 500, 500],
+						['html/towelline5.html', 348, 480, 550, 550],
+						]">
+						<img class="icon" src="images/icons_01.gif" onmouseover="this.src='images/green_01.gif'" onmouseout="this.src='images/icons_01.gif'"/>
+					</div>
+				</div>
+				<div class="container">
+					<h1 class="appear">Iron at maximum temperature 150&deg;F</h1>
+					<div>
+						<div class="link iron1" data-windows="[
+						['html/brownhooded1.html', 318, 440, 20, 20], 
+						['html/checkered2.html', 318, 440, 50, 20],
+						['html/lightdenim4.html', 303, 420, 50, 50], 
+						['html/paisley2.html', 318, 440, 80, 80],
+						['html/squared6.html', 303, 420, 110, 100],
+						]">
+						<img class="icon" src="images/icons_07.gif" onmouseover="this.src='images/green_06.gif'" onmouseout="this.src='images/icons_07.gif'"/>
+						</div> 
+					</div>
+				</div>
+				<div class="container">
+					<h1 class="appear">Do not iron</h1>
+					<img class="icon" src="images/icons_13.gif" onmouseover="this.src='images/green_12.gif'" onmouseout="this.src='images/icons_13.gif'"/>
+				</div>
+				<div class="container">
+					<h1 class="appear">Iron at maximum temperature 230&deg;F</h1>
+					<div class="link iron1" data-windows="[
+					['html/brownhooded2.html', 318, 440, 20, 20], 
+					['html/flower1.html', 258, 360, 50, 20],
+					['html/flowytank2.html', 255, 349, 50, 50], 
+					['html/greycashpant1.html', 318, 440, 80, 80],
+					['html/holed1.html', 318, 440, 110, 100],
+					['html/infinityscarf2.html', 198, 280, 130, 130],
+					['html/kimono1.html', 255, 349, 150, 150],
+					['html/longscarf1.html', 228, 320, 170, 170],
+					['html/oxblood1.html', 318, 440, 190, 190],
+					['html/plaid1.html', 303, 420, 220, 220],
+					['html/puffjacket2.html', 333, 460, 170, 170],
+					['html/tiedye1.html', 303, 420, 190, 190],
+					['html/trophy1.html', 318, 440, 220, 220],
+					]">
+					<img class="icon" src="images/icons_19.gif" onmouseover="this.src='images/green_18.gif'" onmouseout="this.src='images/icons_19.gif'"/>
+					</div>
+				</div>
+				<div class="container">
+					<h1 class="appear">Iron at maximum temperature 390&deg;F</h1>
+					<img class="icon" src="images/icons_25.gif" onmouseover="this.src='images/green_24.gif'" onmouseout="this.src='images/icons_25.gif'"/>
+				</div>
+				<div class="container">
+					<h1 class="appear">No steam</h1>
+					<img class="icon" src="images/icons_29.gif" onmouseover="this.src='images/green_28.gif'" onmouseout="this.src='images/icons_29.gif'"/>
+				</div>
+			</div>
+			<div class="column">
+				<div class="container">
+					<h1 class="appear">Bleach if needed</h1>
+					<img class="icon" src="images/icons_02.gif" onmouseover="this.src='images/green_02.gif'" onmouseout="this.src='images/icons_02.gif'"/>
+				</div>
+				<div class="container">
+					<h1 class="appear">Non-chlorine bleach if needed</h1>
+					<div class="icon" class="link iron1" data-windows="[
+					['html/linetowel2.html', 348, 480, 20, 20], 
+					['html/puffjacket3.html', 333, 460, 50, 20],
+					['html/squared1.html', 303, 420, 50, 50], 
+					['html/towel1.html', 393, 540, 80, 80],
+					['html/yellowtowel2.html', 408, 560, 110, 100],
+					]">
+					<img src="images/icons_08.gif" onmouseover="this.src='images/green_07.gif'" onmouseout="this.src='images/icons_08.gif'"/>
+					</div>
+				</div>
+				<div class="container">
+					<h1 class="appear">Do not bleach</h1>
+					<div class="link iron1" data-windows="[
+					['html/brownhooded3.html', 318, 440, 20, 20], 
+					['html/checkered4.html', 318, 440, 20, 1000],
+					['html/denimjacket1.html', 333, 460, 50, 50], 
+					['html/flower2.html', 258, 360, 50, 970],
+					['html/holed2.html', 318, 440, 80, 80],
+					['html/infinityscarf1.html', 198, 280, 80, 940],
+					['html/kimono2.html', 255, 349, 110, 110],
+					['html/lightdenim6.html', 303, 420, 110, 910],
+					['html/longscarf2.html', 228, 320, 140, 140],
+					['html/mickey1.html', 288, 400, 140, 880],
+					['html/oxblood3.html', 318, 440, 170, 170],
+					['html/paisley1.html', 318, 440, 170, 850],
+					['html/plaid2.html', 303, 420, 200, 200],
+					['html/puffjacket4.html', 333, 460, 200, 810],
+					['html/star1.html', 288, 400, 230, 230],
+					['html/tiedye2.html', 303, 420, 230, 780],
+					['html/trophy2.html', 318, 440, 260, 260],
+					]">
+					<img class="icon" src="images/icons_14.gif" onmouseover="this.src='images/green_13.gif'" onmouseout="this.src='images/icons_14.gif'"/>
+					</div>
+				</div>
+			</div>
+			<div class="column">
+				<div class="container">
+					<h1 class="appear">Dryclean</h1>
+					<div class="link iron1" data-windows="[
+					['html/dadsjacket1.html', 363, 500, 20, 20],
+					['html/greycashpant2.html', 318, 440, 20, 20],
+					['html/halfneck3.html', 228, 400, 20, 20],
+					['html/longscarf3.html', 228, 320, 20, 20],
+					['html/oxblood2.html', 318, 440, 20, 20],
+					['html/puffjacket5.html', 333, 460, 20, 20],
+
+					]"> 
+					<img class="icon" src="images/icons_03.gif" onmouseover="this.src='images/green_02.gif'" onmouseout="this.src='images/icons_03.gif'"/>
+					</div>
+				</div>
+				<div class="container">
+					<h1 class="appear">Do not dryclean</h1>
+					<div class="link iron1" data-windows="[
+					['html/blackjean2.html', 303, 420, 50, 50], 
+					['html/checkered1.html', 318, 440, 50, 50],
+					['html/flower3.html', 258, 360, 50, 50], 
+					['html/flowytank1.html', 258, 360, 80, 80],
+					['html/infinityscarf3.html', 198, 280, 110, 100],
+					['html/lightdenim1.html', 303, 420, 130, 130],
+					['html/longscarf.html', 228, 320, 150, 150],
+					['html/mickey2.html', 288, 400, 170, 170],
+					['html/plaid3.html', 303, 420, 190, 190],
+					['html/squared2.html', 303, 420, 220, 220],
+					['html/star2.html', 288, 400, 250, 250],
+					['html/tiedye3.html', 303, 420, 280, 280],
+					['html/trophy3.html', 318, 440, 310, 310],
+					]">
+					<img class="icon" src="images/icons_15.gif" onmouseover="this.src='images/green_14.gif'" onmouseout="this.src='images/icons_15.gif'"/>
+					</div>
+				</div>
+				<div class="container">
+					<h1 class="appear">Petroleum solvent</h1>
+					<div class="link iron1" data-windows="[
+					['html/brownhooded4.html', 318, 440, 50, 50], 
+					['html/greycashpant3.html', 318, 440, 50, 50],
+					['html/holed3.html', 318, 440, 50, 50], 
+					['html/kimono3.html', 255, 349, 80, 80],
+					['html/oxblood4.html', 318, 440, 110, 100],
+					['html/perse2.html', 288, 400, 130, 130],
+					['html/puffjacket6.html', 333, 460, 150, 150],
+					]">
+					<img class="icon" src="images/icons_21.gif" onmouseover="this.src='images/green_20.gif'" onmouseout="this.src='images/icons_21.gif'"/>
+					</div>
+				</div>
+				<div class="container">
+					<h1 class="appear">Any solvent</h1>
+					<a>
+					<img class="icon" src="images/icons_26.gif" onmouseover="this.src='images/green_25.gif'" onmouseout="this.src='images/icons_26.gif'"/>
+					</a>
+				</div>
+				<div class="container">
+					<h1 class="appear">Any solvent except tetrachlorethylene</h1>
+					<a>
+					<img class="icon" src="images/icons_30.gif" onmouseover="this.src='images/green_29.gif'" onmouseout="this.src='images/icons_30.gif'"/>
+					</a>
+				</div>
+				<div class="container">
+					<h1 class="appear">Wet cleaning</h1>
+					<a>
+					<img class="icon" src="images/icons_33.gif" onmouseover="this.src='images/green_32.gif'" onmouseout="this.src='images/icons_33.gif'"/>
+					</a>
+				</div>
+			</div>
+			<div class="column">
+				<div class="container">
+					<h1 class="appear">Machine wash</h1>
+					<div class="link iron1" data-windows="[
+					['html/blackjean4.html', 303, 420, 50, 50], 
+					['html/checkered3.html', 318, 440, 50, 50],
+					['html/lightdenim2.html', 303, 420, 50, 50], 
+					['html/perse3.html', 288, 400, 80, 80],
+					['html/plaid4.html', 303, 420, 110, 100],
+					]">
+					<img class="icon" src="images/icons_04.gif" onmouseover="this.src='images/green_03.gif'" onmouseout="this.src='images/icons_04.gif'"/>
+					</div>
+				</div>
+				<div class="container">
+					<h1 class="appear">Hand wash</h1>
+					<div class="link iron1" data-windows="[
+					['html/flower4.html', 258, 360, 50, 50], 
+					['html/holed4.html', 318, 440, 50, 50],
+					['html/infinityscarf4.html', 198, 280, 50, 50], 
+					['html/kimono4.html', 255, 349, 80, 80],
+					['html/longscarf5.html', 228, 320, 110, 100],
+					['html/squared3.html', 303, 420, 110, 100],
+					['html/tiedye4.html', 303, 420, 110, 100],
+					]">
+					<img class="icon" src="images/icons_10.gif" onmouseover="this.src='images/green_09.gif'" onmouseout="this.src='images/icons_10.gif'"/>
+					</div>
+				</div>
+				<div class="container">
+					<h1 class="appear">Do not wash</h1>
+					<div class="link iron1" data-windows="[
+					['html/greycashpant3.html', 318, 440, 50, 50], 
+					['html/puffjacket7.html', 333, 460, 50, 50],
+					['html/star3.html', 288, 400, 50, 50], 
+					['html/greycashpant4.html', 318, 440, 80, 80],
+					]">
+					<img class="icon" src="images/icons_16.gif" onmouseover="this.src='images/green_15.gif'" onmouseout="this.src='images/icons_16.gif'"/>
+					</div>
+				</div>
+				<div class="container">
+					<h1 class="appear">Water temperature not above 80&deg;F</h1>
+					<div class="link iron1" data-windows="[
+					['html/denimjacket9.html', 333, 460, 50, 50], 
+					['html/flowytank3.html', 255, 349, 50, 50],
+					['html/halfneck1.html', 288, 400, 50, 50], 
+					['html/paisley3.html', 318, 440, 80, 80],
+					['html/trophy4.html', 318, 440, 80, 80],
+					]">
+					<img class="icon" src="images/icons_27.gif" onmouseover="this.src='images/green_26.gif'" onmouseout="this.src='images/icons_27.gif'"/>
+					</div>
+				</div>
+				<div class="container">
+					<h1 class="appear">Water temperature not above 105&deg;F</h1>
+					<div class="link iron1" data-windows="[
+					['html/checkered5.html', 318, 440, 50, 50], 
+					['html/lightdenim3.html', 303, 420, 50, 50],
+					['html/linetowel3.html', 348, 480, 50, 50], 
+					['html/mickey3.html', 288, 400, 80, 80],
+					['html/towelline2.html', 348, 480, 80, 80],
+					['html/yellowtowel3.html', 408, 560, 80, 80],
+					]">
+					<img class="icon" src="images/icons_22.gif" onmouseover="this.src='images/green_21.gif'" onmouseout="this.src='images/icons_22.gif'"/>
+					</div>
+				</div>
+				<div class="container">
+					<h1 class="appear">Water temperature not above 140&deg;F</h1>
+					<a>
+					<img class="icon" src="images/icons_31.gif" onmouseover="this.src='images/green_30.gif'" onmouseout="this.src='images/icons_31.gif'"/>
+					</a>
+				</div>
+			</div>
+			<div class="column">
+				<div class="container">
+					<h1 class="appear">Tumble dry</h1>
+					<a>
+					<img class="icon" src="images/icons_05.gif" onmouseover="this.src='images/green_04.gif'" onmouseout="this.src='images/icons_05.gif'"/>
+					</a>
+				</div>
+				<div class="container">
+					<h1 class="appear">Do not tumble dry</h1>
+					<a>
+					<img class="icon" src="images/icons_11.gif" onmouseover="this.src='images/green_10.gif'" onmouseout="this.src='images/icons_11.gif'"/>
+					</a>
+				</div>
+				<div class="container">
+					<h1 class="appear">Dry normal medium heat</h1>
+					<a>
+					<img class="icon" src="images/icons_17.gif" onmouseover="this.src='images/green_16.gif'" onmouseout="this.src='images/icons_17.gif'"/>
+					</a>
+				</div>
+				<div class="container">
+					<h1 class="appear">Dry normal no heat</h1>
+					<a>
+					<img class="icon" src="images/icons_23.gif" onmouseover="this.src='images/green_22.gif'" onmouseout="this.src='images/icons_23.gif'"/>
+					</a>
+				</div>
+			</div>
+			<div class="column">
+				<div class="container">
+					<h1 class="appear">Dry</h1>
+					<a>
+					<img class="icon" src="images/icons_06.gif" onmouseover="this.src='images/green_05.gif'" onmouseout="this.src='images/icons_06.gif'"/>
+					</a>
+				</div>
+				<div class="container">
+					<h1 class="appear">Do not dry</h1>
+					<a>
+					<img class="icon" src="images/icons_12.gif" onmouseover="this.src='images/green_11.gif'" onmouseout="this.src='images/icons_12.gif'"/>
+					</a>
+				</div>
+				<div class="container">
+					<h1 class="appear">Dry flat</h1>
+					<a>
+					<img class="icon" src="images/icons_18.gif" onmouseover="this.src='images/green_17.gif'" onmouseout="this.src='images/icons_18.gif'"/>
+					</a>
+				</div>
+				<div class="container">
+					<h1 class="appear">Drip dry</h1>
+					<a>
+					<img class="icon" src="images/icons_24.gif" onmouseover="this.src='images/green_23.gif'" onmouseout="this.src='images/icons_24.gif'" onmouseleave="this.src='images/blank.gif'"/>
+					</a>
+				</div>
+				<div class="container">
+					<h1 class="appear">Hang to dry</h1>
+					<a>
+					<img class="icon" src="images/icons_28.gif" onmouseover="this.src='images/green_27.gif'" onmouseout="this.src='images/icons_28.gif'"/>
+					</a>
+				</div>
+			</div>
+			</div>
+			<script src="laundry.js"></script>
+	</body>
+</html>
