@@ -1,0 +1,142 @@
+
+body{
+	padding:0;
+	margin:0;
+	font-family: Arial;
+	font-size: 0px;
+}
+
+a{
+	color:black;
+	text-decoration: none;
+}
+a:visited {
+    color: black;
+}
+
+h1{
+	font-size: 16px;
+	display: inline-block;
+}
+
+h2{
+	font-size: 17px;
+	margin-bottom: 35px;
+}
+
+.nav{
+	margin-top: 10px;
+	float:left;
+}
+
+ul{
+	list-style-type:none;
+}
+
+.vivian{
+	top:20px;
+	border-bottom: solid;
+	border-width: 2px;
+	padding-bottom:3px;
+	position: fixed;
+	left:40px;
+}
+
+.admires{
+	position: fixed;
+	top:20px;
+	left:300px;
+}
+
+.email{
+	top:20px;
+	border-bottom: solid;
+	border-width: 2px;
+	padding-bottom:3px;
+	position: fixed;
+	right:40px;
+}
+
+.row{
+	display:block;
+}
+
+.noun{
+	font-size: 17px;
+	border-style: solid;
+	border-width: 2px;
+	padding:10px;
+	padding-left: 25px;
+	padding-right: 25px;
+	display: inline-block;
+	margin-right: 15px;
+	margin-bottom: 0px;
+	margin-top: 15px;
+}
+.word{
+	/*color:black;*/
+}
+.shape{
+	width:200px;
+	height:40px;
+	display: inline-block;
+	background-color: red;
+	margin-left: 10px;
+}
+.container{
+	margin-top: 100px;
+	margin-left: 300px;
+}
+.about{
+	border-color: #d9dadc;
+	color:black;
+}
+
+
+.vivian:hover { 
+    background-color: #78f0a9;
+}
+.print:hover { 
+    background-color: #78f0a9;
+    border-color:black;
+}
+.web:hover { 
+    background-color: #ffff72;
+    border-color:black;
+}
+.motion:hover { 
+    background-color: #f6d5e8;
+    border-color:black;
+}
+.about:hover { 
+	color:black;
+    background-color: white;
+    border-color:black;
+}
+
+.email:hover a p.new-label:after{
+    content: 'yangv473@newschool.edu';
+}
+
+
+.is-grey {
+	border-color:#d9dadc;
+	color:black;
+}
+
+.print-active {
+	background-color: #78f0a9;
+}
+
+.web-active {
+	background-color: #ffff72;
+}
+
+.motion-active {
+	background-color: #f6d5e8;
+}
+
+.about-active {
+	color: black;
+	border-color: black;
+}
