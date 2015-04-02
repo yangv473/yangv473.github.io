@@ -1,3 +1,7 @@
+* {
+    margin: 0;
+    padding: 0;
+}
 a:link {
     color: #5cf000;
 }
@@ -14,4 +18,28 @@ a:hover {
 
 .water{
 	margin-top: 20px;
+}
+
+h3{
+	font-family: avenir;
+	margin-left: 70px;
+	margin-top: 0px;
+	font-size: 18px;
+}
+h2{
+	font-size: 20px;
+	display: inline-block;
+	margin-left: 70px;
+	margin-top: -20px;
+	font-family: avenir;
+}
+a{
+	font-family: avenir;
+}
+.gif{
+	display: inline-block;
+}
+img{
+	margin-top: 20px;
+	margin-left: 20px;
 }

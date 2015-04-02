@@ -1,0 +1,70 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.gif{
+	display: inline-block;
+	margin-left: 20px;
+	margin-top: 20px;
+}
+
+.title{
+	display: inline-block;
+	font-family: Avenir;
+	font-size: 10px;
+	margin-left: 25px;
+}
+
+.studio{
+	margin-left: 80px;
+	font-family: Avenir;
+	font-size: 9px;
+	margin-top: 10px;
+}
+.favicon{
+	margin-left: 80px;
+	font-family: Avenir;
+	font-size: 12px;
+	margin-top: 5px;
+	color:#5cf000;
+}
+.space{
+	margin-left: 80px;
+	font-family: Avenir;
+	font-size: 12px;
+	margin-top: 3px;
+	color:#5cf000;
+}
+.type{
+	margin-left: 80px;
+	font-family: Avenir;
+	font-size: 12px;
+	margin-top: 3px;
+	color:#5cf000;
+}
+.lab{
+	margin-left: 80px;
+	font-family: Avenir;
+	font-size: 9px;
+	margin-top: 10px;
+}
+.comp{
+	margin-left: 80px;
+	font-family: Avenir;
+	font-size: 12px;
+	margin-top: 3px;
+	color:#5cf000;
+}
+.archive{
+	margin-left: 80px;
+	font-family: Avenir;
+	font-size: 12px;
+	margin-top: 3px;
+	color:#5cf000;
+}
+a:link {
+    color: #5cf000;
+}
+a:after { 
+    color:#5cf000;
+}
