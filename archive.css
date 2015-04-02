@@ -1,0 +1,628 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+::-webkit-scrollbar {
+    height:8px;
+}
+
+::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3); 
+    border-radius: 0px;
+}
+::-webkit-scrollbar-thumb {
+    border-radius: 0px; 
+    background-color: black;
+}
+
+a{
+	text-decoration: none;
+}
+.text{
+	border-top: solid 8px;
+}
+p{
+	font-family: arial;
+	font-size: 18px;
+}
+h1{
+	font-family: arial;
+	font-size: 18px;
+	display: inline-block;
+}
+.title{
+	position: fixed;
+	left:20px;
+	top:20px;
+}
+.year{
+	position: fixed;
+	top:20px;
+	right:20px;
+}
+.wrapper{
+	position:fixed;
+	top:50%;
+	transform: translateY(-50%);
+	height:400px;
+	background-color: white;
+	width:100%;
+	overflow-x: auto;
+	overflow-y: hidden;
+	white-space: nowrap;
+}
+
+.theresa{
+	width:30px;
+	margin-left: 20px;
+}
+.lauren{
+	width:30px;
+}
+.likando{
+	width:37px;
+}
+.urvita{
+	width:43px;
+}
+.kamila{
+	width:48px;
+}
+.herin{
+	width:52px;
+}
+.kyle{
+	width:58px;
+}
+.eva{
+	width:64px;
+}
+.simon{
+	width:90px;
+}
+.zhiyan{
+	width:95px;
+}
+.jasmine2{
+	width:100px;
+}
+.megan{
+	width:105px;
+}
+.jasminez{
+	width:102px;
+}
+.conny{
+	width:155px;
+}
+.urvi{
+	width:157px;
+}
+.sara{
+	width:381px;
+}
+.vivian{
+	width:871px;
+}
+
+.all{
+	position: relative;
+  	top: 50%;
+ 	transform: translateY(-50%);
+	background-color: blue;
+	height:220px;
+	display:inline-block;
+	margin-right:50px;
+}
+.theresa1{
+	background-color: #b1b1b1;
+	width:100%;
+	height:35%;
+}
+
+.theresa2{
+	background-color: white;
+	width:100%;
+	height:45%;
+}
+
+.theresa3{
+	background-color: #484848;
+	width:100%;
+	height:15%;
+}
+.theresa4{
+	background-color: black;
+	width:100%;
+	height:5%;
+}
+.likando1{
+	background-color: #808080;
+	width:100%;
+	height:90%;
+}
+.likando2{
+	background-color: white;
+	width:100%;
+	height:10%;
+}
+.kamila1{
+	background-color: #5900f2;
+	width:100%;
+	height:10%;
+}
+.kamila6{
+	background-color: white;
+	width:100%;
+	height:50%;
+}
+.kamila2{
+	background-color: #009dff;
+	width:100%;
+	height:10%;
+}
+.kamila3{
+	background-color: #ff6200;
+	width:100%;
+	height:10%;
+}
+.kamila4{
+	background-color: #ffc400;
+	width:100%;
+	height:10%;
+}
+.kamila5{
+	background-color: #e30b00;
+	width:100%;
+	height:10%;
+}
+.herin1{
+	background-color: #ff0000;
+	width:100%;
+	height:5%;
+}
+.herin6{
+	background-color: white;
+	width:100%;
+	height:55%;
+}
+.herin2{
+	background-color: #ffc000;
+	width:100%;
+	height:10%;
+}
+.herin3{
+	background-color: #fff100;
+	width:100%;
+	height:6%;
+}
+.herin4{
+	background-color: black;
+	width:100%;
+	height:14%;
+}
+.herin5{
+	background-color: #008000;
+	width:100%;
+	height:5%;
+}
+.herin7{
+	background-color: #0000ff;
+	width:100%;
+	height:5%;
+}
+.kyle1{
+	background-color: black;
+	width:100%;
+	height:43%;
+}
+.kyle2{
+	background-color: white;
+	width:100%;
+	height:7%;
+}
+.kyle3{
+	background-color: #f5d69d;
+	width:100%;
+	height:11%;
+}
+.kyle4{
+	background-color: #3e1d07;
+	width:100%;
+	height:10%;
+}
+.kyle5{
+	background-color: #e74d45;
+	width:100%;
+	height:15%;
+}
+.kyle6{
+	background-color: #fff100;
+	width:100%;
+	height:5%;
+}
+.kyle7{
+	background-color: #670d05;
+	width:100%;
+	height:10%;
+}
+.eva1{
+	background-color: #e6e3df;
+	width:100%;
+	height:64%;
+}
+.eva2{
+	background-color: #ceba9a;
+	width:100%;
+	height:20%;
+}
+.eva3{
+	background-color: black;
+	width:100%;
+	height:10%;
+}
+.eva4{
+	background-color: white;
+	width:100%;
+	height:2%;
+}
+.eva5{
+	background-color: #2eb0a9;
+	width:100%;
+	height:5%;
+}
+.simon1{
+	background-color: #5b1923;
+	width:100%;
+	height:80%;
+}
+.simon2{
+	background-color: #e3c91e;
+	width:100%;
+	height:15%;
+}
+.simon3{
+	background-color: black;
+	width:100%;
+	height:5%;
+}
+.zhiyan1{
+	background-color: #1a7b9e;
+	width:100%;
+	height:29%;
+}
+.zhiyan2{
+	background-color: black;
+	width:100%;
+	height:5%;
+}
+.zhiyan3{
+	background-color: #14343f;
+	width:100%;
+	height:15%;
+}
+.zhiyan4{
+	background-color: #3300ff;
+	width:100%;
+	height:9%;
+}
+.zhiyan5{
+	background-color: #3333ff;
+	width:100%;
+	height:8%;
+}
+.zhiyan6{
+	background-color: #3366ff;
+	width:100%;
+	height:7%;
+}
+.zhiyan7{
+	background-color: #3399ff;
+	width:100%;
+	height:7%;
+}
+.zhiyan8{
+	background-color: #33ccff;
+	width:100%;
+	height:10%;
+}
+.zhiyan9{
+	background-color: #33ffff;
+	width:100%;
+	height:9%;
+}
+.zhiyan10{
+	background-color: white;
+	width:100%;
+	height:2%;
+}
+.megan1{
+	background-color: black;
+	width:100%;
+	height:80%;
+}
+.megan2{
+	background-color: #009b00;
+	width:100%;
+	height:20%;
+}
+.jasmine1{
+	background-color: black;
+	width:100%;
+	height:95%;
+}
+.jasmine2{
+	background-color: white;
+	width:100%;
+	height:5%;
+}
+.conny1{
+	background-color: black;
+	width:100%;
+	height:60%;
+}
+.conny2{
+	background-color: #d5d5d5;
+	width:100%;
+	height:20%;
+}
+.conny3{
+	background-color: #ff0000;
+	width:100%;
+	height:20%;
+}
+.urvi1{
+	background-color: black;
+	width:100%;
+	height:45%;
+}
+.urvi2{
+	background-color: red;
+	width:100%;
+	height:35%;
+}
+.urvi3{
+	background-color: white;
+	width:100%;
+	height:10%;
+}
+.urvi4{
+	background-color: #864e1b;
+	width:100%;
+	height:10%;
+}
+.sara1{
+	background-color: black;
+	width:100%;
+	height:85%;
+}
+.sara2{
+	background-color: white;
+	width:100%;
+	height:5%;
+}
+.sara3{
+	background-color: red;
+	width:100%;
+	height:10%;
+}
+.vivian1{
+	background-color: white;
+	width:100%;
+	height:65%;
+}
+.vivian2{
+	background-color: black;
+	width:100%;
+	height:5%;
+}
+.vivian3{
+	background-color: red;
+	width:100%;
+	height:5%;
+}
+.vivian4{
+	background-color: #ff8231;
+	width:100%;
+	height:5%;
+}
+.vivian5{
+	background-color: #8c6453;
+	width:100%;
+	height:4%;
+}
+.vivian6{
+	background-color: #ffa960;
+	width:100%;
+	height:4%;
+}
+.vivian7{
+	background-color: #fff100;
+	width:100%;
+	height:4%;
+}
+.vivian8{
+	background-color: #95ba5d;
+	width:100%;
+	height:4%;
+}
+.vivian9{
+	background-color: #f5729e;
+	width:100%;
+	height:5%;
+}
+.jasmine21{
+	background-color: white;
+	width:100%;
+	height:70%;
+}
+.jasmine22{
+	background-color: #dfebf3;
+	width:100%;
+	height:30%;
+}
+.lauren1{
+	background-color: black;
+	width:100%;
+	height:45%;
+}
+.lauren2{
+	background-color: white;
+	width:100%;
+	height:10%;
+}
+.lauren3{
+	background-color: #b2b2b2;
+	width:100%;
+	height:10%;
+}
+.lauren4{
+	background-color: #808080;
+	width:100%;
+	height:10%;
+}
+.lauren5{
+	background-color: #4d4d4d;
+	width:100%;
+	height:10%;
+}
+.lauren6{
+	background-color: #191919;
+	width:100%;
+	height:10%;
+}
+.lauren7{
+	background-color: #4aff47;
+	width:100%;
+	height:5%;
+}
+
+.urvita1{
+	background-color: #cc66ff;
+	width:100%;
+	height:90%;
+}
+.urvita2{
+	background-color: white;
+	width:100%;
+	height:5%;
+}
+.urvita3{
+	background-color: black;
+	width:100%;
+	height:5%;
+}
+
+.appear{
+    transition:.5s;
+	-webkit-transition: opacity 0.5s ease;
+    -moz-transition: opacity 0.5s ease;
+    -o-transition: opacity 0.5s ease;
+    -ms-transition: opacity 0.5s ease;
+    opacity:0.0;
+    bottom:-65px;
+    display: block;
+    position: fixed;
+    color: black;
+}
+
+.urvita:hover .appear{
+	opacity:1.0;
+    position:fixed;
+    text-align: left;
+}
+
+.urvi:hover .appear{
+	opacity:1.0;
+    position:fixed;
+    text-align: left;
+}
+
+.zhiyan:hover .appear{
+	opacity:1.0;
+    position:fixed;
+    text-align: left;
+}
+
+.lauren:hover .appear{
+	opacity:1.0;
+    position:fixed;
+    text-align: left;
+}
+
+.megan:hover .appear{
+	opacity:1.0;
+    position:fixed;
+    text-align: left;
+}
+
+.jasminez:hover .appear{
+	opacity:1.0;
+    position:fixed;
+    text-align: left;
+}
+
+.jasmine:hover .appear{
+	opacity:1.0; 
+    position:fixed;
+    text-align: left;
+}
+
+.simon:hover .appear{
+	opacity:1.0;
+    position:fixed;
+    text-align: left;
+}
+
+.conny:hover .appear{
+	opacity:1.0;
+    position:fixed;
+    text-align: left;
+}
+
+.sara:hover .appear{
+	opacity:1.0; 
+    position:fixed;
+    text-align: left;
+}
+
+.vivian:hover .appear{
+	opacity:1.0;
+    position:fixed;
+    text-align: left;
+}
+.theresa:hover .appear{
+	opacity:1.0; 
+    position:fixed;
+    text-align: left;
+}
+.kyle:hover .appear{
+	opacity:1.0; 
+    position:fixed;
+    text-align: left;
+}
+
+.likando:hover .appear{
+	opacity:1.0;
+    position:fixed;
+    text-align: left;
+}
+
+.herin:hover .appear{
+	opacity:1.0;
+    position:fixed;
+    text-align: left;
+}
+.eva:hover .appear{
+	opacity:1.0;
+    position:fixed;
+    text-align: left;
+}
+.kamila:hover .appear{
+	opacity:1.0;
+    position:fixed;
+    text-align: left;
+}
+
+
+
