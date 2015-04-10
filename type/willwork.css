@@ -6,7 +6,6 @@
 /*a slashed font for REALLY emphasized words a font made up with just slashes!*/
 body{
 	font-size: 0px;
-	background-color: #ab00ff;
 }
 ::-webkit-scrollbar { 
     display: none; 
@@ -36,7 +35,7 @@ body{
 .bar{
 	width:100%;
 	height:12px;
-	background-color: #ab00ff;
+	background-color: black;
 }
 
 .popup{
@@ -208,6 +207,9 @@ img{
 }
 .grn{
 	background-color:#006b57;
+}
+.poop{
+	background-image:url("poop3.gif");
 }
 .thumb{
 	width:60%;
