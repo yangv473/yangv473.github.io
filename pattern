@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<p id="demo"></p>
+
+<script>
+var text = "";
+var face = ["(*_*)", "(._.)", "('_')", "(-_-)", "(T_T)"];
+var i;
+
+for (i = 0; i < food.length; i++) {
+    text += "I am " + face[i] + "<br>";
+}
