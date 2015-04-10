@@ -3,10 +3,11 @@
     padding: 0;
 }
 
-/*a slashed font for REALLY emphasized words a font made up with just slashes!*/
 body{
 	font-size: 0px;
+	background-image: url("background.png");
 }
+
 ::-webkit-scrollbar { 
     display: none; 
 }
@@ -199,11 +200,21 @@ img{
 .drk{
 	background-color:black;
 }
+.part{
+	width:60%;
+	background-color: #a7a9ab;
+}
+.full{
+	background-color: #a7a9ab;
+}
 .red{
 	background-color:#939597;
 }
 .pink{
 	background-color:#bbbdc0;
+}
+.num{
+	background-color: #128ee9;
 }
 .grn{
 	background-color:#d1d2d4;
