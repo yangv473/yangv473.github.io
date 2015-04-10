@@ -3,9 +3,9 @@
     padding: 0;
 }
 
-/*a slashed font for REALLY emphasized words a font made up with just slashes!*/
 body{
 	font-size: 0px;
+	background-image: url("background.png");
 }
 ::-webkit-scrollbar { 
     display: none; 
