@@ -31,3 +31,7 @@ function toggle_visibility(id) {
     else e.style.display = 'block';
 }
 
+function Timer(){
+    document.getElementById('popup').style.visibility = "visible"; 
+}
+setTime(Timer,3000);
