@@ -143,12 +143,23 @@ img{
 .long5{
 	margin-bottom: 5000px;
 }
-.mess-b{
+.mess{
 	margin-bottom: 10px;
 }
-.mess-t{
-	margin-top: 10px;
+.mess2{
+	margin-bottom: 15px;
 }
+.mess3{
+	margin-bottom: 20px;
+}
+.mess4{
+	margin-bottom: 25px;
+}
+.mess5{
+	margin-bottom: 30px;
+}
+
+
 .blk-1{
 	width:100%;
 	height:20px;
