@@ -231,6 +231,9 @@ img{
 	border-width: 20px 0 0 20px;
 	border-color: transparent transparent transparent #c7c8ca;
 }
+.arrow{
+	background-color: #c7c8ca;
+}
 .color1{
 	background-color:#41b1bd;
 }
