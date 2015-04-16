@@ -40,7 +40,6 @@ body{
 
 .popup{
 	width:450px;
-	height:150px;
 	background-color: white;
 	position: absolute;
     right: 0;
@@ -49,7 +48,8 @@ body{
     top: 25%;
     padding:30px;
     border: 1px solid;
-    display:table;
+    height:190px;
+	display:none;
     -webkit-box-shadow:0 0 10px rgba(0,0,0,0.4);
     -moz-box-shadow:0 0 10px rgba(0,0,0,0.4); 
     box-shadow:0 0 10px rgba(0,0,0,0.4);

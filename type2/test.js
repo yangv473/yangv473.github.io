@@ -24,6 +24,9 @@ $('.button').click(function(event) {
 
 });
 
+$(function() {
+  $(".popup").delay(3000).show(0);
+});
 
 function toggle_visibility(id) {
     var e = document.getElementById(id);
@@ -31,7 +34,4 @@ function toggle_visibility(id) {
     else e.style.display = 'block';
 }
 
-function Timer(){
-    document.getElementById('popup').style.visibility = "visible"; 
-}
-setTime(Timer,3000);
+
