@@ -69,6 +69,25 @@ body{
     color:black;
     cursor: pointer;
 }
+.info{
+	box-shadow: 5px 5px black;
+	top:20px;
+	padding:10px;
+	width:10px;
+	height:10px;
+	background-color: white;
+	border: 1px solid;
+	position: absolute;
+	right: 0;
+    left: 50;
+    margin: auto;
+    color:black;
+    cursor: pointer;
+}
+
+.icontype{
+	font-size: 12px;
+}
 
 .icon2{
 	box-shadow: 5px 5px black;
@@ -289,6 +308,7 @@ img{
 	margin:0 auto;
 }
 .column{
+	cursor:url(cursor.png),auto;
 	background-color: white;
 	display:inline-block;
     width: 20px;
