@@ -1,0 +1,97 @@
+body{
+  
+
+}
+.go-button {
+  z-index: 1000;
+  position: fixed;
+  top:0;
+  left:0;
+}
+.quote-button{
+  left:44%;
+  top:22%;
+  background-color: orange;
+}
+.button{
+  margin-left: 10px;
+  margin-top: 0px;
+  font-family: avenir;
+  font-size: 15px;
+  color: white;
+  padding: 10px;
+}
+.person{
+  position: fixed;
+  background-image: url("person.png");
+  background-repeat: no-repeat;
+  background-size: 300px;
+  margin-left:45%;
+  width:300px;
+  height:500px;
+  top:20%;
+}
+img{
+  width:300px;
+}
+.phrase{
+  width:220px;
+}
+a{
+  color:black;
+}
+.quote{
+  position: fixed;
+  background-image: url("thought.png"); 
+  background-repeat: no-repeat;
+  width:300px;
+  height:400px;
+  margin-top:10%;
+  margin-left: 20%;
+  z-index: 1000;
+}
+h1{
+  background-color: white;
+  font-family: Avenir;
+  font-size:25px;
+  margin-left: 10px;
+  margin-top: 10px;
+  width:500px;
+}
+h2{
+  background-color: white;
+  font-family: Avenir;
+  font-size:15px;
+  margin-left: 10px;
+  width:500px;
+}
+.extra-holder{
+  position: fixed;
+  margin-left:45%;
+  width:300px;
+  height:500px;
+  top:20%;
+}
+.stache-holder{
+  position: fixed;
+  margin-left:45%;
+  width:300px;
+  height:500px;
+  top:20%;
+}
+.hair-holder{
+  position: fixed;
+  margin-left:45%;
+  width:300px;
+  height:500px;
+  top:20%;
+}
+.extra-button{
+  background-color: red;
+}
+.stache-button{
+  background-color: green;
+}
+.hair-button{
+  background-color: blue;
+}
