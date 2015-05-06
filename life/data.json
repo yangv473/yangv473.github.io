@@ -1,0 +1,1263 @@
+{
+  "infant": {
+    "love": [
+      "infant love 1",
+      "infant love 2",
+      "infant love 3"
+    ],
+    "hate": [
+      "infant angry 1",
+      "infant angry 2",
+      "infant angry 3"
+    ],
+    "despair": [
+      "infant despair 1",
+      "infant despair 2",
+      "infant despair 3"
+    ],
+    "anger": [
+      "infant anger 1",
+      "infant anger 2",
+      "infant anger 3"
+    ],
+    "aggravation": [
+      "infant aggravation 1",
+      "infant aggravation 2",
+      "infant aggravation 3"
+    ],
+    "happiness": [
+      "infant happiness 1",
+      "infant happiness 2",
+      "infant happiness 3"
+    ],
+    "anxiousness": [
+      "infant anxiousness 1",
+      "infant anxiousness 2",
+      "infant anxiousness 3"
+    ],
+    "sadness": [
+      "infant sadness 1",
+      "infant sadness 2",
+      "infant sadness 3"
+    ],
+    "scared": [
+      "infant scared 1",
+      "infant scared 2",
+      "infant scared 3"
+    ],
+    "surprised": [
+      "infant surprised 1",
+      "infant surprised 2",
+      "infant surprised 3"
+    ],
+    "stressed": [
+      "infant stressed 1",
+      "infant stressed 2",
+      "infant stressed 3"
+    ],
+    "jealousy": [
+      "infant jealousy 1",
+      "infant jealousy 2",
+      "infant jealousy 3"
+    ],
+    "curiosity": [
+      "infant curiosity 1",
+      "infant curiosity 2",
+      "infant curiosity 3"
+    ],
+    "excitement": [
+      "infant excitement 1",
+      "infant excitement 2",
+      "infant excitement 3"
+    ],
+    "pride": [
+      "infant pride 1",
+      "infant pride 2",
+      "infant pride 3"
+    ],
+    "greedy": [
+      "infant greedy 1",
+      "infant greedy 2",
+      "infant greedy 3"
+    ],
+    "alert": [
+      "infant alert 1",
+      "infant alert 2",
+      "infant alert 3"
+    ],
+    "annoyed": [
+      "infant annoyed 1",
+      "infant annoyed 2",
+      "infant annoyed 3"
+    ],
+    "amused": [
+      "infant amused 1",
+      "infant amused 2",
+      "infant amused 3"
+    ],
+    "ashamed": [
+      "infant ashamed 1",
+      "infant ashamed 2",
+      "infant ashamed 3"
+    ],
+    "attraction": [
+      "infant attraction 1",
+      "infant attraction 2",
+      "infant attraction 3"
+    ],
+    "betrayed": [
+      "infant betrayed 1",
+      "infant betrayed 2",
+      "infant betrayed 3"
+    ],
+    "bitter": [
+      "infant bitter 1",
+      "infant bitter 2",
+      "infant bitter 3"
+    ],
+    "bored": [
+      "infant bored 1",
+      "infant bored 2",
+      "infant bored 3"
+    ],
+    "calm": [
+      "infant calm 1",
+      "infant calm 2",
+      "infant calm 3"
+    ],
+    "cheerful": [
+      "infant cheerful 1",
+      "infant cheerful 2",
+      "infant cheerful 3"
+    ],
+    "cocky": [
+      "infant cocky 1",
+      "infant cocky 2",
+      "infant cocky 3"
+    ],
+    "courageous": [
+      "infant courageous 1",
+      "infant courageous 2",
+      "infant courageous 3"
+    ],
+    "depressed": [
+      "infant depressed 1",
+      "infant depressed 2",
+      "infant depressed 3"
+    ],
+    "determined": [
+      "infant determined 1",
+      "infant determined 2",
+      "infant determined 3"
+    ],
+    "disgust": [
+      "infant disgust 1",
+      "infant disgust 2",
+      "infant disgust 3"
+    ],
+    "embarrassed": [
+      "infant embarrassed 1",
+      "infant embarrassed 2",
+      "infant embarrassed 3"
+    ],
+    "frustrated": [
+      "infant frustrated 1",
+      "infant frustrated 2",
+      "infant frustrated 3"
+    ],
+    "hopeful": [
+      "infant hopeful 1",
+      "infant hopeful 2",
+      "infant hopeful 3"
+    ],
+    "horrified": [
+      "infant horrified 1",
+      "infant horrified 2",
+      "infant horrified 3"
+    ],
+    "humiliated": [
+      "infant humiliated 1",
+      "infant humiliated 2",
+      "infant humiliated 3"
+    ],
+    "lucky": [
+      "infant lucky 1",
+      "infant lucky 2",
+      "infant lucky 3"
+    ],
+    "insanity": [
+      "infant insanity 1",
+      "infant insanity 2",
+      "infant insanity 3"
+    ],
+    "insecurity": [
+      "infant insecurity 1",
+      "infant insecurity 2",
+      "infant insecurity 3"
+    ],
+    "inspired": [
+      "infant inspired 1",
+      "infant inspired 2",
+      "infant inspired 3"
+    ],
+    "intimidated": [
+      "infant intimidated 1",
+      "infant intimidated 2",
+      "infant intimidated 3"
+    ],
+    "lazy": [
+      "infant lazy 1",
+      "infant lazy 2",
+      "infant lazy 3"
+    ],
+    "pessimistic": [
+      "infant pessimistic 1",
+      "infant pessimistic 2",
+      "infant pessimistic 3"
+    ],
+    "optimistic": [
+      "infant optimistic 1",
+      "infant optimistic 2",
+      "infant optimistic 3"
+    ],
+    "shame": [
+      "infant shame 1",
+      "infant shame 2",
+      "infant shame 3"
+    ],
+    "shy": [
+      "infant shy 1",
+      "infant shy 2",
+      "infant shy 3"
+    ],
+    "threatened": [
+      "infant threatened 1",
+      "infant threatened 2",
+      "infant threatened 3"
+    ],
+    "vengeful": [
+      "infant vengeful 1",
+      "infant vengeful 2",
+      "infant vengeful 3"
+    ],
+    "death": [
+      "infant death 1",
+      "infant death 2",
+      "infant death 3"
+    ],
+    "hungry": [
+      "infant hungry 1",
+      "infant hungry 2",
+      "infant hungry 3"
+    ]
+  },
+  "child": {
+    "love": [
+      "child love 1",
+      "child love 2",
+      "child love 3"
+    ],
+    "hate": [
+      "child angry 1",
+      "child angry 2",
+      "child angry 3"
+    ],
+    "despair": [
+      "child despair 1",
+      "child despair 2",
+      "child despair 3"
+    ],
+    "anger": [
+      "child anger 1",
+      "child anger 2",
+      "child anger 3"
+    ],
+    "aggravation": [
+      "child aggravation 1",
+      "child aggravation 2",
+      "child aggravation 3"
+    ],
+    "happiness": [
+      "child happiness 1",
+      "child happiness 2",
+      "child happiness 3"
+    ],
+    "anxiousness": [
+      "child anxiousness 1",
+      "child anxiousness 2",
+      "child anxiousness 3"
+    ],
+    "sadness": [
+      "child sadness 1",
+      "child sadness 2",
+      "child sadness 3"
+    ],
+    "scared": [
+      "child scared 1",
+      "child scared 2",
+      "child scared 3"
+    ],
+    "surprised": [
+      "child surprised 1",
+      "child surprised 2",
+      "child surprised 3"
+    ],
+    "stressed": [
+      "child stressed 1",
+      "child stressed 2",
+      "child stressed 3"
+    ],
+    "jealousy": [
+      "child jealousy 1",
+      "child jealousy 2",
+      "child jealousy 3"
+    ],
+    "curiosity": [
+      "child curiosity 1",
+      "child curiosity 2",
+      "child curiosity 3"
+    ],
+    "excitement": [
+      "child excitement 1",
+      "child excitement 2",
+      "child excitement 3"
+    ],
+    "pride": [
+      "child pride 1",
+      "child pride 2",
+      "child pride 3"
+    ],
+    "greedy": [
+      "child greedy 1",
+      "child greedy 2",
+      "child greedy 3"
+    ],
+    "alert": [
+      "child alert 1",
+      "child alert 2",
+      "child alert 3"
+    ],
+    "annoyed": [
+      "child annoyed 1",
+      "child annoyed 2",
+      "child annoyed 3"
+    ],
+    "amused": [
+      "child amused 1",
+      "child amused 2",
+      "child amused 3"
+    ],
+    "ashamed": [
+      "child ashamed 1",
+      "child ashamed 2",
+      "child ashamed 3"
+    ],
+    "attraction": [
+      "child attraction 1",
+      "child attraction 2",
+      "child attraction 3"
+    ],
+    "betrayed": [
+      "child betrayed 1",
+      "child betrayed 2",
+      "child betrayed 3"
+    ],
+    "bitter": [
+      "child bitter 1",
+      "child bitter 2",
+      "child bitter 3"
+    ],
+    "bored": [
+      "child bored 1",
+      "child bored 2",
+      "child bored 3"
+    ],
+    "calm": [
+      "child calm 1",
+      "child calm 2",
+      "child calm 3"
+    ],
+    "cheerful": [
+      "child cheerful 1",
+      "child cheerful 2",
+      "child cheerful 3"
+    ],
+    "cocky": [
+      "child cocky 1",
+      "child cocky 2",
+      "child cocky 3"
+    ],
+    "courageous": [
+      "child courageous 1",
+      "child courageous 2",
+      "child courageous 3"
+    ],
+    "depressed": [
+      "child depressed 1",
+      "child depressed 2",
+      "child depressed 3"
+    ],
+    "determined": [
+      "child determined 1",
+      "child determined 2",
+      "child determined 3"
+    ],
+    "disgust": [
+      "child disgust 1",
+      "child disgust 2",
+      "child disgust 3"
+    ],
+    "embarrassed": [
+      "child embarrassed 1",
+      "child embarrassed 2",
+      "child embarrassed 3"
+    ],
+    "frustrated": [
+      "child frustrated 1",
+      "child frustrated 2",
+      "child frustrated 3"
+    ],
+    "hopeful": [
+      "child hopeful 1",
+      "child hopeful 2",
+      "child hopeful 3"
+    ],
+    "horrified": [
+      "child horrified 1",
+      "child horrified 2",
+      "child horrified 3"
+    ],
+    "humiliated": [
+      "child humiliated 1",
+      "child humiliated 2",
+      "child humiliated 3"
+    ],
+    "lucky": [
+      "child lucky 1",
+      "child lucky 2",
+      "child lucky 3"
+    ],
+    "insanity": [
+      "child insanity 1",
+      "child insanity 2",
+      "child insanity 3"
+    ],
+    "insecurity": [
+      "child insecurity 1",
+      "child insecurity 2",
+      "child insecurity 3"
+    ],
+    "inspired": [
+      "child inspired 1",
+      "child inspired 2",
+      "child inspired 3"
+    ],
+    "intimidated": [
+      "child intimidated 1",
+      "child intimidated 2",
+      "child intimidated 3"
+    ],
+    "lazy": [
+      "child lazy 1",
+      "child lazy 2",
+      "child lazy 3"
+    ],
+    "pessimistic": [
+      "child pessimistic 1",
+      "child pessimistic 2",
+      "child pessimistic 3"
+    ],
+    "optimistic": [
+      "child optimistic 1",
+      "child optimistic 2",
+      "child optimistic 3"
+    ],
+    "shame": [
+      "child shame 1",
+      "child shame 2",
+      "child shame 3"
+    ],
+    "shy": [
+      "child shy 1",
+      "child shy 2",
+      "child shy 3"
+    ],
+    "threatened": [
+      "child threatened 1",
+      "child threatened 2",
+      "child threatened 3"
+    ],
+    "vengeful": [
+      "child vengeful 1",
+      "child vengeful 2",
+      "child vengeful 3"
+    ],
+    "death": [
+      "child death 1",
+      "child death 2",
+      "child death 3"
+    ],
+    "hungry": [
+      "child hungry 1",
+      "child hungry 2",
+      "child hungry 3"
+    ]
+  },
+  "teen": {
+    "love": [
+      "teen love 1",
+      "teen love 2",
+      "teen love 3"
+    ],
+    "hate": [
+      "teen angry 1",
+      "teen angry 2",
+      "teen angry 3"
+    ],
+    "despair": [
+      "teen despair 1",
+      "teen despair 2",
+      "teen despair 3"
+    ],
+    "anger": [
+      "teen anger 1",
+      "teen anger 2",
+      "teen anger 3"
+    ],
+    "aggravation": [
+      "teen aggravation 1",
+      "teen aggravation 2",
+      "teen aggravation 3"
+    ],
+    "happiness": [
+      "teen happiness 1",
+      "teen happiness 2",
+      "teen happiness 3"
+    ],
+    "anxiousness": [
+      "teen anxiousness 1",
+      "teen anxiousness 2",
+      "teen anxiousness 3"
+    ],
+    "sadness": [
+      "teen sadness 1",
+      "teen sadness 2",
+      "teen sadness 3"
+    ],
+    "scared": [
+      "teen scared 1",
+      "teen scared 2",
+      "teen scared 3"
+    ],
+    "surprised": [
+      "teen surprised 1",
+      "teen surprised 2",
+      "teen surprised 3"
+    ],
+    "stressed": [
+      "teen stressed 1",
+      "teen stressed 2",
+      "teen stressed 3"
+    ],
+    "jealousy": [
+      "teen jealousy 1",
+      "teen jealousy 2",
+      "teen jealousy 3"
+    ],
+    "curiosity": [
+      "teen curiosity 1",
+      "teen curiosity 2",
+      "teen curiosity 3"
+    ],
+    "excitement": [
+      "teen excitement 1",
+      "teen excitement 2",
+      "teen excitement 3"
+    ],
+    "pride": [
+      "teen pride 1",
+      "teen pride 2",
+      "teen pride 3"
+    ],
+    "greedy": [
+      "teen greedy 1",
+      "teen greedy 2",
+      "teen greedy 3"
+    ],
+    "alert": [
+      "teen alert 1",
+      "teen alert 2",
+      "teen alert 3"
+    ],
+    "annoyed": [
+      "teen annoyed 1",
+      "teen annoyed 2",
+      "teen annoyed 3"
+    ],
+    "amused": [
+      "teen amused 1",
+      "teen amused 2",
+      "teen amused 3"
+    ],
+    "ashamed": [
+      "teen ashamed 1",
+      "teen ashamed 2",
+      "teen ashamed 3"
+    ],
+    "attraction": [
+      "teen attraction 1",
+      "teen attraction 2",
+      "teen attraction 3"
+    ],
+    "betrayed": [
+      "teen betrayed 1",
+      "teen betrayed 2",
+      "teen betrayed 3"
+    ],
+    "bitter": [
+      "teen bitter 1",
+      "teen bitter 2",
+      "teen bitter 3"
+    ],
+    "bored": [
+      "teen bored 1",
+      "teen bored 2",
+      "teen bored 3"
+    ],
+    "calm": [
+      "teen calm 1",
+      "teen calm 2",
+      "teen calm 3"
+    ],
+    "cheerful": [
+      "teen cheerful 1",
+      "teen cheerful 2",
+      "teen cheerful 3"
+    ],
+    "cocky": [
+      "teen cocky 1",
+      "teen cocky 2",
+      "teen cocky 3"
+    ],
+    "courageous": [
+      "teen courageous 1",
+      "teen courageous 2",
+      "teen courageous 3"
+    ],
+    "depressed": [
+      "teen depressed 1",
+      "teen depressed 2",
+      "teen depressed 3"
+    ],
+    "determined": [
+      "teen determined 1",
+      "teen determined 2",
+      "teen determined 3"
+    ],
+    "disgust": [
+      "teen disgust 1",
+      "teen disgust 2",
+      "teen disgust 3"
+    ],
+    "embarrassed": [
+      "teen embarrassed 1",
+      "teen embarrassed 2",
+      "teen embarrassed 3"
+    ],
+    "frustrated": [
+      "teen frustrated 1",
+      "teen frustrated 2",
+      "teen frustrated 3"
+    ],
+    "hopeful": [
+      "teen hopeful 1",
+      "teen hopeful 2",
+      "teen hopeful 3"
+    ],
+    "horrified": [
+      "teen horrified 1",
+      "teen horrified 2",
+      "teen horrified 3"
+    ],
+    "humiliated": [
+      "teen humiliated 1",
+      "teen humiliated 2",
+      "teen humiliated 3"
+    ],
+    "lucky": [
+      "teen lucky 1",
+      "teen lucky 2",
+      "teen lucky 3"
+    ],
+    "insanity": [
+      "teen insanity 1",
+      "teen insanity 2",
+      "teen insanity 3"
+    ],
+    "insecurity": [
+      "teen insecurity 1",
+      "teen insecurity 2",
+      "teen insecurity 3"
+    ],
+    "inspired": [
+      "teen inspired 1",
+      "teen inspired 2",
+      "teen inspired 3"
+    ],
+    "intimidated": [
+      "teen intimidated 1",
+      "teen intimidated 2",
+      "teen intimidated 3"
+    ],
+    "lazy": [
+      "teen lazy 1",
+      "teen lazy 2",
+      "teen lazy 3"
+    ],
+    "pessimistic": [
+      "teen pessimistic 1",
+      "teen pessimistic 2",
+      "teen pessimistic 3"
+    ],
+    "optimistic": [
+      "teen optimistic 1",
+      "teen optimistic 2",
+      "teen optimistic 3"
+    ],
+    "shame": [
+      "teen shame 1",
+      "teen shame 2",
+      "teen shame 3"
+    ],
+    "shy": [
+      "teen shy 1",
+      "teen shy 2",
+      "teen shy 3"
+    ],
+    "threatened": [
+      "teen threatened 1",
+      "teen threatened 2",
+      "teen threatened 3"
+    ],
+    "vengeful": [
+      "teen vengeful 1",
+      "teen vengeful 2",
+      "teen vengeful 3"
+    ],
+    "death": [
+      "teen death 1",
+      "teen death 2",
+      "teen death 3"
+    ],
+    "hungry": [
+      "teen hungry 1",
+      "teen hungry 2",
+      "teen hungry 3"
+    ]
+  },
+  "adult": {
+    "love": [
+      "adult love 1",
+      "adult love 2",
+      "adult love 3"
+    ],
+    "hate": [
+      "adult angry 1",
+      "adult angry 2",
+      "adult angry 3"
+    ],
+    "despair": [
+      "adult despair 1",
+      "adult despair 2",
+      "adult despair 3"
+    ],
+    "anger": [
+      "adult anger 1",
+      "adult anger 2",
+      "adult anger 3"
+    ],
+    "aggravation": [
+      "adult aggravation 1",
+      "adult aggravation 2",
+      "adult aggravation 3"
+    ],
+    "happiness": [
+      "adult happiness 1",
+      "adult happiness 2",
+      "adult happiness 3"
+    ],
+    "anxiousness": [
+      "adult anxiousness 1",
+      "adult anxiousness 2",
+      "adult anxiousness 3"
+    ],
+    "sadness": [
+      "adult sadness 1",
+      "adult sadness 2",
+      "adult sadness 3"
+    ],
+    "scared": [
+      "adult scared 1",
+      "adult scared 2",
+      "adult scared 3"
+    ],
+    "surprised": [
+      "adult surprised 1",
+      "adult surprised 2",
+      "adult surprised 3"
+    ],
+    "stressed": [
+      "adult stressed 1",
+      "adult stressed 2",
+      "adult stressed 3"
+    ],
+    "jealousy": [
+      "adult jealousy 1",
+      "adult jealousy 2",
+      "adult jealousy 3"
+    ],
+    "curiosity": [
+      "adult curiosity 1",
+      "adult curiosity 2",
+      "adult curiosity 3"
+    ],
+    "excitement": [
+      "adult excitement 1",
+      "adult excitement 2",
+      "adult excitement 3"
+    ],
+    "pride": [
+      "adult pride 1",
+      "adult pride 2",
+      "adult pride 3"
+    ],
+    "greedy": [
+      "adult greedy 1",
+      "adult greedy 2",
+      "adult greedy 3"
+    ],
+    "alert": [
+      "adult alert 1",
+      "adult alert 2",
+      "adult alert 3"
+    ],
+    "annoyed": [
+      "adult annoyed 1",
+      "adult annoyed 2",
+      "adult annoyed 3"
+    ],
+    "amused": [
+      "adult amused 1",
+      "adult amused 2",
+      "adult amused 3"
+    ],
+    "ashamed": [
+      "adult ashamed 1",
+      "adult ashamed 2",
+      "adult ashamed 3"
+    ],
+    "attraction": [
+      "adult attraction 1",
+      "adult attraction 2",
+      "adult attraction 3"
+    ],
+    "betrayed": [
+      "adult betrayed 1",
+      "adult betrayed 2",
+      "adult betrayed 3"
+    ],
+    "bitter": [
+      "adult bitter 1",
+      "adult bitter 2",
+      "adult bitter 3"
+    ],
+    "bored": [
+      "adult bored 1",
+      "adult bored 2",
+      "adult bored 3"
+    ],
+    "calm": [
+      "adult calm 1",
+      "adult calm 2",
+      "adult calm 3"
+    ],
+    "cheerful": [
+      "adult cheerful 1",
+      "adult cheerful 2",
+      "adult cheerful 3"
+    ],
+    "cocky": [
+      "adult cocky 1",
+      "adult cocky 2",
+      "adult cocky 3"
+    ],
+    "courageous": [
+      "adult courageous 1",
+      "adult courageous 2",
+      "adult courageous 3"
+    ],
+    "depressed": [
+      "adult depressed 1",
+      "adult depressed 2",
+      "adult depressed 3"
+    ],
+    "determined": [
+      "adult determined 1",
+      "adult determined 2",
+      "adult determined 3"
+    ],
+    "disgust": [
+      "adult disgust 1",
+      "adult disgust 2",
+      "adult disgust 3"
+    ],
+    "embarrassed": [
+      "adult embarrassed 1",
+      "adult embarrassed 2",
+      "adult embarrassed 3"
+    ],
+    "frustrated": [
+      "adult frustrated 1",
+      "adult frustrated 2",
+      "adult frustrated 3"
+    ],
+    "hopeful": [
+      "adult hopeful 1",
+      "adult hopeful 2",
+      "adult hopeful 3"
+    ],
+    "horrified": [
+      "adult horrified 1",
+      "adult horrified 2",
+      "adult horrified 3"
+    ],
+    "humiliated": [
+      "adult humiliated 1",
+      "adult humiliated 2",
+      "adult humiliated 3"
+    ],
+    "lucky": [
+      "adult lucky 1",
+      "adult lucky 2",
+      "adult lucky 3"
+    ],
+    "insanity": [
+      "adult insanity 1",
+      "adult insanity 2",
+      "adult insanity 3"
+    ],
+    "insecurity": [
+      "adult insecurity 1",
+      "adult insecurity 2",
+      "adult insecurity 3"
+    ],
+    "inspired": [
+      "adult inspired 1",
+      "adult inspired 2",
+      "adult inspired 3"
+    ],
+    "intimidated": [
+      "adult intimidated 1",
+      "adult intimidated 2",
+      "adult intimidated 3"
+    ],
+    "lazy": [
+      "adult lazy 1",
+      "adult lazy 2",
+      "adult lazy 3"
+    ],
+    "pessimistic": [
+      "adult pessimistic 1",
+      "adult pessimistic 2",
+      "adult pessimistic 3"
+    ],
+    "optimistic": [
+      "adult optimistic 1",
+      "adult optimistic 2",
+      "adult optimistic 3"
+    ],
+    "shame": [
+      "adult shame 1",
+      "adult shame 2",
+      "adult shame 3"
+    ],
+    "shy": [
+      "adult shy 1",
+      "adult shy 2",
+      "adult shy 3"
+    ],
+    "threatened": [
+      "adult threatened 1",
+      "adult threatened 2",
+      "adult threatened 3"
+    ],
+    "vengeful": [
+      "adult vengeful 1",
+      "adult vengeful 2",
+      "adult vengeful 3"
+    ],
+    "death": [
+      "adult death 1",
+      "adult death 2",
+      "adult death 3"
+    ],
+    "hungry": [
+      "adult hungry 1",
+      "adult hungry 2",
+      "adult hungry 3"
+    ]
+  },
+  "senior": {
+    "love": [
+      "senior love 1 Congratulations! Your daughter just had her baby girl!",
+      "senior love 2 After you complain that your feet hurt, your significant other gives you a nice massage.",
+      "senior love 3 Your daughter calls and you share stories for an hour. "
+    ],
+    "hate": [
+      "senior angry 1",
+      "senior angry 2",
+      "senior angry 3"
+    ],
+    "despair": [
+      "senior despair 1 You drop your favorite pair of earrings down the drain.",
+      "senior despair 2 You can no longer do yoga because of your back.",
+      "senior despair 3 You trip on a rock on the way back home. You have a bruise on your left leg."
+    ],
+    "anger": [
+      "senior anger 1 A stranger yells at you for walking too slowly. ",
+      "senior anger 2 A woman bumps into you and almost knocks you down. She leaves without saying sorry.",
+      "senior anger 3 You discover you’ve been taken advantage of by your repairman because you don’t know much about heaters."
+    ],
+    "aggravation": [
+      "senior aggravation 1 You can no longer drive your car due to old age.",
+      "senior aggravation 2 You forgot to add money to your bank account. You leave the supermarket without your groceries.",
+      "senior aggravation 3 You drop the television remote into the crack behind the couch. Looks like you’ll have to wait to watch Wheel of Fortune until someone comes home to help you retrieve it."
+    ],
+    "happiness": [
+      "senior happiness 1 You win a  at the bingo tournament!",
+      "senior happiness 2 Your arthritis isn’t bothering you today.",
+      "senior happiness 3 Your daughter surprises you with a trip to the spa for your birthday!"
+    ],
+    "anxiousness": [
+      "senior anxiousness 1 You are waiting to be picked up so you can attend the senior ball.",
+      "senior anxiousness 2 Your son isn’t answering his phone. You call again for the fifteenth time.",
+      "senior anxiousness 3 You find out that your daughter is in the ER. "
+    ],
+    "sadness": [
+      "senior sadness 1 You are diagnosed with diabetes. Looks like you’ll have to watch what you eat.",
+      "senior sadness 2 You are too weak to carry your groceries back to your car.",
+      "senior sadness 3 You visit your mother’s grave with your children."
+    ],
+    "scared": [
+      "senior scared 1 You hear consistent banging on your front door and a gruff voice yelling to let him in.",
+      "senior scared 2 You see a ghost staring back at you in the bathroom mirror. Or was it just in your mind?",
+      "senior scared 3 You see a giant spider crawl under your bed. You grab a flashlight and a book, but can’t find it anywhere."
+    ],
+    "surprised": [
+      "senior surprised 1 Your son visits you and hands you a beautiful bouquet of wildflowers.",
+      "senior surprised 2 A stranger hands you a lottery ticket and wishes you luck.",
+      "senior surprised 3 A friendly woman helps you cross the street and tells you to have a great day."
+    ],
+    "stressed": [
+      "senior stressed 1 You need to write your own will soon.",
+      "senior stressed 2 Your stomach is giving you trouble today. Better make a stop at the drug store.",
+      "senior stressed 3"
+    ],
+    "jealousy": [
+      "senior jealousy 1 Your neighbor is getting a free home makeover.",
+      "senior jealousy 2 Your friend bought the new sofa you had your eye on for a month.",
+      "senior jealousy 3 You look out the window and see a few kids laughing while playing soccer." 
+    ],
+    "curiosity": [
+      "senior curiosity 1 You find a note left on your door. You missed a package delivery from UPS.",
+      "senior curiosity 2 You watch a documentary about extra-terrestrials and wonder what is out there.",
+      "senior curiosity 3 You find a puzzle piece on the ground and wonder where it’s from."
+    ],
+    "excitement": [
+      "senior excitement 1 New wheels! You upgrade to an electric wheelchair! Getting around will be a breeze!",
+      "senior excitement 2 You help your son plan a surprise party for your daughter.",
+      "senior excitement 3 Your apple pumpkin pie wins in the annual pie contest hosted by the local farmer’s market."
+    ],
+    "pride": [
+      "senior pride 1 You make your famous chili for the family gathering. It gets rave reviews!",
+      "senior pride 2 You teach your son how to make your traditional chicken noodle soup.",
+      "senior pride 3 Your daughter invites you to the launch of her new business."
+    ],
+    "greedy": [
+      "senior greedy 1 You just ate, but you spot the brownie you forgot you had in the fridge and decide you have room for more.",
+      "senior greedy 2 You wonder if you should have chosen a different occupation that would have left you with more money after retirement.",
+      "senior greedy 3 You pressure your daughter and son to have more children. They aren’t getting any younger!"
+    ],
+    "alert": [
+      "senior alert 1 You see a bunch of skateboarders doing tricks as they cross the street. Better be careful crossing!",
+      "senior alert 2 *Beep! Beep! Beep!* You get an AMBER Alert on your phone.",
+      "senior alert 3 You smell gas in your home. You go to the stove and find that you haven’t completely shut off one of the stovetops."
+    ],
+    "annoyed": [
+      "senior annoyed 1 The pharmacy forgets to refill your prescriptions. You’ll have to come back tomorrow.",
+      "senior annoyed 2 You find a twenty dollar bill stuck in the laundry basket. ",
+      "senior annoyed 3 Your television stops working. Your favorite show was on tonight!"
+    ],
+    "amused": [
+      "senior amused 1 You see a small boy run up to a young girl and hand her some freshly plucked…stems.",
+      "senior amused 2 You watch a segment about dog hairstyling. Apparently square heads are in!",
+      "senior amused 3 Your grandchild tells you he has girl problems and asks why girls are so complicated."
+    ],
+    "ashamed": [
+      "senior ashamed 1 You forget to send your son a birthday gift.",
+      "senior ashamed 2 You realize you haven’t cleaned the house in two months.",
+      "senior ashamed 3 You open the supply closet and a mountain of useless objects come tumbling down."
+    ],
+    "attraction": [
+      "senior attraction 1 Your significant other wrote you a heart-warming card.",
+      "senior attraction 2 You notice your significant other wearing the socks you gave them at the beginning of the relationship.",
+      "senior attraction 3 You receive a box of your favorite pastries with a note saying, I love you."
+    ],
+    "betrayed": [
+      "senior betrayed 1 Your friend tells you they’re meeting Taylor later today. But Taylor told you she was out of town!",
+      "senior betrayed 2 Your significant other tells you their feeling too tired for date night tonight. But they promised!",
+      "senior betrayed 3 Your granddaughter tells you she’s going to name her daughter after her husband’s mother instead of yours."
+    ],
+    "bitter": [
+      "senior bitter 1 You buy an expensive bouquet of flowers only to be told by your significant other that they hate lilies.",
+      "senior bitter 2 You lent your friend, Alex, twenty dollars. Alex says that never happened.",
+      "senior bitter 3 You read an article about seniors. Apparently seniors contribute nothing to society!"
+    ],
+    "bored": [
+      "senior bored 1 You finish watching your movie and wonder what to do next.",
+      "senior bored 2 You want to bake, but don’t have the majority of the ingredients. What to do instead?",
+      "senior bored 3 You sit in your chair and watch the sky."
+    ],
+    "calm": [
+      "senior calm You paint a sunset on the canvas and admire the colors.",
+      "senior calm You lie on the bed with your dog, Jack, snuggled in your armpit.",
+      "senior calm You sit on the sofa to read your newest book."
+    ],
+    "cheerful": [
+      "senior cheerful You open the window to hear the birds sing and smell the flowers.",
+      "senior cheerful You let the sun’s rays warm your face and think, The world is beautiful!",
+      "senior cheerful You eat a bowl of cheerios and laugh at your old photos."
+    ],
+    "cocky": [
+      "senior cocky You look in the mirror and admire your full head of hair.",
+      "senior cocky You boast to your friend that your granchildren got into an ivy league.",
+      "senior cocky You come in 1st in the marathon for seniors."
+    ],
+    "courageous": [
+      "senior courageous You decide to perm your hair.",
+      "senior courageous You decide to tackle the toughest recipe in the book for the family gathering.",
+      "senior courageous 3"
+    ],
+    "depressed": [
+      "senior depressed You look at your hands and wonder when you’ll die.",
+      "senior depressed You text your grandchildren and they use a new teenage slang that you don't understand.",
+      "senior depressed You decide you don’t want to go shopping after all because you think you’re too old to dress fashionably."
+    ],
+    "determined": [
+      "senior determined You are determined to organize your photos today. It will get done!",
+      "senior determined You decide to start watching the news from now on.",
+      "senior determined You decide you’re going to start exercising again. Now to find my sneakers!"
+    ],
+    "disgust": [
+      "senior disgust You find that the banana you left out a week ago is shriveled and covered in fruit flies.",
+      "senior disgust You drag a finger across the bookshelf and find your finger covered in black dust.",
+      "senior disgust You see people walking in the streets staring at their phones."
+    ],
+    "embarrassed": [
+      "senior embarrassed Your grandchild asks you what 9 times 8 is, but you forgot years ago.",
+      "senior embarrassed You tell your son you don’t remember what your phone number is.",
+      "senior embarrassed Your daughter tells you you accidentally bought squash instead of cucumbers."
+    ],
+    "frustrated": [
+      "senior frustrated You can barely touch your feet anymore.",
+      "senior frustrated You know you left your keys somewhere in your home, but can’t remember where.",
+      "senior frustrated Your shoe laces keep getting untied."
+    ],
+    "hopeful": [
+      "senior hopeful You buy a lottery ticket because it feels like a good day.",
+      "senior hopeful You find your mother’s old earrings and wonder if the matching necklace is somewhere as well.",
+      "senior hopeful You wonder who your next grandchild will look like."
+    ],
+    "horrified": [
+      "senior horrified You spend all afternoon finishing your 400 piece puzzle. When you go to the kitchen, you see that your dog has destroyed the puzzle and is now gnawing on a piece.",
+      "senior horrified You’ve been walking around with a large brown stain on the bottom of your pants. So that’s where the bar of chocolate went!",
+      "senior horrified You drop your wallet into the crack as the elevator door opens."
+    ],
+    "humiliated": [
+      "senior humiliated You realize you’ve been walking around with your fly unzipped.",
+      "senior humiliated You just peed yourself in public.",
+      "senior humiliated You realize you forgot how to do long division when you look at your grandson’s homework."
+    ],
+    "lucky": [
+      "senior lucky A marathon of your favorite show is on! Grab some popcorn!",
+      "senior lucky You find a twenty dollar bill stuck in the laundry basket.",
+      "senior lucky You are having a great hair day!"
+    ],
+    "insanity": [
+      "senior insanity 1",
+      "senior insanity 2",
+      "senior insanity 3"
+    ],
+    "insecurity": [
+      "senior insecurity You look at your hair and wonder if it’s time for a change.",
+      "senior insecurity You wonder if you should get your gray hairs dyed black.",
+      "senior insecurity You wonder if you should skip the cheese on your pasta today."
+    ],
+    "inspired": [
+      "senior inspired You find your old drawing tools and decide to start drawing again.",
+      "senior inspired The sky looks beautiful today. You take a photograph to keep it as inspiration.",
+      "senior inspired You find your collection of stamps and decide to continue again."
+    ],
+    "intimidated": [
+      "senior intimidated 1",
+      "senior intimidated 2",
+      "senior intimidated 3"
+    ],
+    "lazy": [
+      "senior lazy 1 You regret eating the extra slice of apple pie. You’re too full to move.",
+      "senior lazy 2",
+      "senior lazy 3"
+    ],
+    "pessimistic": [
+      "senior pessimistic You decide learning to play sudoku will be a waste of time.",
+      "senior pessimistic You go through a carton of ice cream and wonder if you’ve done anything with your life.",
+      "senior pessimistic You wonder why anyone works hard in life when we’re all going to die anyway."
+    ],
+    "optimistic": [
+      "senior optimistic 1",
+      "senior optimistic 2",
+      "senior optimistic 3"
+    ],
+    "shame": [
+      "senior shame 1",
+      "senior shame 2",
+      "senior shame 3"
+    ],
+    "shy": [
+      "senior shy 1",
+      "senior shy 2",
+      "senior shy 3"
+    ],
+    "threatened": [
+      "senior threatened 1",
+      "senior threatened 2",
+      "senior threatened 3"
+    ],
+    "vengeful": [
+      "senior vengeful 1",
+      "senior vengeful 2",
+      "senior vengeful 3"
+    ],
+    "death": [
+      "senior death 1",
+      "senior death 2",
+      "senior death 3"
+    ],
+    "hungry": [
+      "senior hungry You open the freezer to get a scoop of that new flavor of Ben & Jerry’s you bought last weekend.",
+      "senior hungry You open the drawer and take out the pile of takeout menus. Now what to order?",
+      "senior hungry You make a pb&j sandwich almost 5cm high."
+    ]
+  }
+
+}
