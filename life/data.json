@@ -1,14 +1,9 @@
 {
   "infant": {
     "love": [
-      "love ",
+      "love you smile",
       "love ",
       "love "
-    ],
-    "hate": [
-      "angry ",
-      "angry ",
-      "angry "
     ],
     "despair": [
       "despair ",
@@ -241,9 +236,9 @@
       "vengeful "
     ],
     "death": [
-      "death ",
-      "death ",
-      "death "
+      "Death ",
+      "Death ",
+      "Death "
     ],
     "hungry": [
       "hungry ",
@@ -399,7 +394,7 @@
     ],
     "disgust": [
       "disgust You find your moldy leftover pizza under your bed after two months.",
-      "disgust You open your backpack and realize you never took ate your banana yesterday. It’s gotten everywhere!",
+      "disgust You open your backpack and realize you never took out your banana yesterday. It’s gotten everywhere!",
       "disgust In the middle of jump-roping, you step on a wad of gum. "
     ],
     "embarrassed": [
@@ -443,9 +438,9 @@
       "pessimistic You know you’re going to get chosen last in PE again. "
     ],
     "death": [
-      "death ",
-      "death ",
-      "death "
+      "Death ",
+      "Death ",
+      "Death "
     ],
     "hungry": [
       "hungry You forgot and left your lunchbox on the counter today.",
@@ -455,209 +450,204 @@
   },
   "teen": {
     "love": [
-      "teen love Your significant other gives you a handmade scrapbook of your memories together for your anniversary.",
-      "teen love Your dog, Jack, jumps all over you and licks your face.",
-      "teen love You and your younger sister decide to cook dinner for your parents."
-    ],
-    "hate": [
-      "teen angry ",
-      "teen angry ",
-      "teen angry "
+      "love Your significant other gives you a handmade scrapbook of your memories together for your anniversary.",
+      "love Your dog, Jack, jumps all over you and licks your face.",
+      "love You and your younger sister decide to cook dinner for your parents."
     ],
     "despair": [
-      "teen despair You find that all your white clothes have turned pink because of a red sock.",
-      "teen despair Your mom refuses to let you have an extra slice of pie because you’ve gained weight.",
-      "teen despair You find that the pair of jeans you’ve had your eye on for so long have sold out."
+      "despair You find that all your white clothes have turned pink because of a red sock.",
+      "despair Your mom refuses to let you have an extra slice of pie because you’ve gained weight.",
+      "despair You find that the pair of jeans you’ve had your eye on for so long have sold out."
     ],
     "anger": [
-      "teen anger Your dad hammers your boxed set of all ten seasons of your favorite tv show for watching it too often.",
-      "teen anger Your parents refuse to let you leave for the weekend and go to the outdoor concert.",
-      "teen anger Your sibling loses your favorite shirt after borrowing it without asking."
+      "anger Your dad hammers your boxed set of all ten seasons of your favorite TV show for watching it too often.",
+      "anger Your parents refuse to let you leave for the weekend and go to the outdoor concert.",
+      "anger Your sibling loses your favorite shirt after borrowing it without asking."
     ],
     "aggravation": [
-      "teen aggravation Your parents don’t understand how important it is to go to the party this weekend.",
-      "teen aggravation Your parents insist on chaperoning the trip with your friends.",
-      "teen aggravation You realize you left your keys in your last class."
+      "aggravation Your parents don’t understand how important it is to go to the party this weekend.",
+      "aggravation Your parents insist on chaperoning the trip with your friends.",
+      "aggravation You realize you left your keys in your last class."
     ],
     "happiness": [
-      "teen happiness You finish painting the walls of your room with your new favorite color.",
-      "teen happiness You enjoy your favorite meal with your friend in front of the TV.",
-      "teen happiness Your friend says the meal is on them and asks if you want dessert as well."
+      "happiness You finish painting the walls of your room with your new favorite color.",
+      "happiness You enjoy your favorite meal with your friend in front of the TV.",
+      "happiness Your friend says the meal is on them and asks if you want dessert as well."
     ],
     "anxiousness": [
-      "teen anxiousness You hide behind the couch ready to yell “Surprise” when your best friend walks through the door.",
-      "teen anxiousness Your significant other’s birthday is this weekend, and you have no idea what to buy them.",
-      "teen anxiousness You debate when to show your parents your “C” in Geometry."
+      "anxiousness You hide behind the couch ready to yell “Surprise” when your best friend walks through the door.",
+      "anxiousness Your significant other’s birthday is this weekend, and you have no idea what to buy them.",
+      "anxiousness You debate when to show your parents your “C” in Geometry."
     ],
     "sadness": [
-      "teen sadness Your significant other tells you that they want to break up.",
-      "teen sadness Your younger sister tells you that she hates you.",
-      "teen sadness You find your old teddy bear and reminisce."
+      "sadness Your significant other tells you that they want to break up.",
+      "sadness Your younger sister tells you that she hates you.",
+      "sadness You find your old teddy bear and reminisce."
     ],
     "scared": [
-      "teen scared You’re stranded at the party and everyone is drunk already.",
-      "teen scared You receive a call that your mom is in the ER.",
-      "teen scared Your friend tells you that they’re being threatened by another classmate."
+      "scared You’re stranded at the party and everyone is drunk already.",
+      "scared You receive a call that your mom is in the ER.",
+      "scared Your friend tells you that they’re being threatened by another classmate."
     ],
     "surprised": [
-      "teen surprised Your significant other surprises you with a box of chocolates when you open the door.",
-      "teen surprised You see your best friend kissing their crush.",
-      "teen surprised You find a note from a secret admirer in your locker."
+      "surprised Your significant other surprises you with a box of chocolates when you open the door.",
+      "surprised You see your best friend kissing their crush.",
+      "surprised You find a note from a secret admirer in your locker."
     ],
     "stressed": [
-      "teen stressed You need to start thinking about the future. Are you applying to college? Where are you applying?",
-      "teen stressed Your friend yells at you for not keeping their secret. You have no idea what they’re talking about.",
-      "teen stressed You need to work on your applications soon. The deadline is coming!"
+      "stressed You need to start thinking about the future. Are you applying to college? Where are you applying?",
+      "stressed Your friend yells at you for not keeping their secret. You have no idea what they’re talking about.",
+      "stressed You need to work on your applications soon. The deadline is coming!"
     ],
     "jealousy": [
-      "teen jealousy Your friend is leaving for Europe this weekend. You’re stuck at home babysitting.",
-      "teen jealousy You see your crush flirting with a classmate.",
-      "teen jealousy Your friend boasts that they got straight A’s this quarter."
+      "jealousy Your friend is leaving for Europe this weekend. You’re stuck at home babysitting.",
+      "jealousy You see your crush flirting with a classmate.",
+      "jealousy Your friend boasts that they got straight A’s this quarter."
     ],
     "curiosity": [
-      "teen curiosity You wonder if your crush likes you back.",
-      "teen curiosity Your friend gives you a box and tells you to open it.",
-      "teen curiosity Your friend gives you a letter and tells you not to open it until they’re gone."
+      "curiosity You wonder if your crush likes you back.",
+      "curiosity Your friend gives you a box and tells you to open it.",
+      "curiosity Your friend gives you a letter and tells you not to open it until they’re gone."
     ],
     "excitement": [
-      "teen excitement Congratulations! You got your driver’s license on your first try!",
-      "teen excitement You and your friends go shopping for prom.",
-      "teen excitement Your significant other puts their hands over your eyes and leads you through the door."
+      "excitement Congratulations! You got your driver’s license on your first try!",
+      "excitement You and your friends go shopping for prom.",
+      "excitement Your significant other puts their hands over your eyes and leads you through the door."
     ],
     "pride": [
-      "teen pride You buy a really nice shirt for 75% off!",
-      "teen pride You get straight A’s this quarter!",
-      "teen pride You are chosen as club president by the members."
+      "pride You buy a really nice shirt for 75% off!",
+      "pride You get straight A’s this quarter!",
+      "pride You are chosen as club president by the members."
     ],
     "greedy": [
-      "teen greedy You already bought an expensive pair of jeans, but decide to get this watch as well.",
-      "teen greedy You go to the cafeteria and buy lunch for two because you’re so hungry.",
-      "teen greedy You snatch back the bag of chips your friend plucked from your arms and tell them to get their own."
+      "greedy You already bought an expensive pair of jeans, but decide to get this watch as well.",
+      "greedy You go to the cafeteria and buy lunch for two because you’re so hungry.",
+      "greedy You snatch back the bag of chips your friend plucked from your arms and tell them to get their own."
     ],
     "alert": [
-      "teen alert A drunk guy comes pounding through the door, screaming his head off.",
-      "teen alert You’re home alone and someone knocks on the front door.",
-      "teen alert Your friend tells you to throw the egg right when they hold up two fingers."
+      "alert A drunk guy comes pounding through the door, screaming his head off.",
+      "alert You’re home alone and someone knocks on the front door.",
+      "alert Your friend tells you to throw the egg right when they hold up two fingers."
     ],
     "annoyed": [
-      "teen annoyed Your friend keeps smacking their gum.",
-      "teen annoyed The person sitting behind you keeps kicking the back of your chair.",
-      "teen annoyed Your friend isn’t answering their phone."
+      "annoyed Your friend keeps smacking their gum.",
+      "annoyed The person sitting behind you keeps kicking the back of your chair.",
+      "annoyed Your friend isn’t answering their phone."
     ],
     "amused": [
-      "teen amused Your parents start dancing in the middle of dinner.",
-      "teen amused You watch a salesman do a dance for the customers.",
-      "teen amused Your sister tells you that she has trained the family pet, Jack, to high-five."
+      "amused Your parents start dancing in the middle of dinner.",
+      "amused You watch a salesman do a dance for the customers.",
+      "amused Your sister tells you that she has trained the family pet, Jack, to high-five."
     ],
     "ashamed": [
-      "teen ashamed You get caught trying to steal a sweater out of the store.",
-      "teen ashamed Your parents ground you for getting drunk last night.",
-      "teen ashamed You see someone watching just as you’ve stuck the fallen piece of gum back in your mouth."
+      "ashamed You get caught trying to steal a sweater out of the store.",
+      "ashamed Your parents ground you for getting drunk last night.",
+      "ashamed You see someone watching just as you’ve stuck the fallen piece of gum back in your mouth."
     ],
     "attraction": [
-      "teen attraction Your significant other smiles at you and holds your hand.",
-      "teen attraction Your significant other tells you that they love you.",
-      "teen attraction You see your celebrity crush on the screen."
+      "attraction Your significant other smiles at you and holds your hand.",
+      "attraction Your significant other tells you that they love you.",
+      "attraction You see your celebrity crush on the screen."
     ],
     "betrayed": [
-      "teen betrayed Your little sister rats you out to your parents saying that you went out last night.",
-      "teen betrayed Your best friend is hanging out with your sworn enemy.",
-      "teen betrayed You find your friend at the movies when they told you they were sick."
+      "betrayed Your little sister rats you out to your parents saying that you went out last night.",
+      "betrayed Your best friend is hanging out with your sworn enemy.",
+      "betrayed You find your friend at the movies when they told you they were sick."
     ],
     "bitter": [
-      "teen bitter Your friend apologizes for hanging out with your sworn enemy.",
-      "teen bitter Your parents won’t let you buy the mp3 player with your own money.",
-      "teen bitter Your parents tell you that you need to work harder in school if you want to succeed in life."
+      "bitter Your friend apologizes for hanging out with your sworn enemy.",
+      "bitter Your parents won’t let you buy the mp3 player with your own money.",
+      "bitter Your parents tell you that you need to work harder in school if you want to succeed in life."
     ],
     "bored": [
-      "teen bored You have no plans and none of your friends are answering their phones.",
-      "teen bored You have two more hours until your shift ends and nothing to do.",
-      "teen bored You look at the clock and wish it to go faster. Fifteen more minutes!"
+      "bored You have no plans and none of your friends are answering their phones.",
+      "bored You have two more hours until your shift ends and nothing to do.",
+      "bored You look at the clock and wish it to go faster. Fifmore minutes!"
     ],
     "calm": [
-      "teen calm You watch reruns of the show you used to love while lying on the bed.",
-      "teen calm You take your dog, Jack, for a long walk around the neighborhood.",
-      "teen calm You watch the sky while lying on the grass."
+      "calm You watch reruns of the show you used to love while lying on the bed.",
+      "calm You take your dog, Jack, for a long walk around the neighborhood.",
+      "calm You watch the sky while lying on the grass."
     ],
     "cheerful": [
-      "teen cheerful Your friend opts for the super-sized bag of popcorn so that you can have some too.",
-      "teen cheerful You enjoy a nice meal with your mom and dad.",
-      "teen cheerful Your mom makes you her famous mini peach pies."
+      "cheerful Your friend opts for the super-sized bag of popcorn so that you can have some too.",
+      "cheerful You enjoy a nice meal with your mom and dad.",
+      "cheerful Your mom makes you her famous mini peach pies."
     ],
     "cocky": [
-      "teen cocky You finish first in the school marathon.",
-      "teen cocky You assign yourself as team leader in your group project.",
-      "teen cocky You are chosen as the MVP of your team."
+      "cocky You finish first in the school marathon.",
+      "cocky You assign yourself as team leader in your group project.",
+      "cocky You are chosen as the MVP of your team."
     ],
     "courageous": [
-      "teen courageous You buy a bottle of hair dye at the drugstore and decide to go for it at home.",
-      "teen courageous You tell your significant other that you love them for the first time.",
-      "teen courageous You go sky-diving with your friends on a dare."
+      "courageous You buy a bottle of hair dye at the drugstore and decide to go for it at home.",
+      "courageous You tell your significant other that you love them for the first time.",
+      "courageous You go sky-diving with your friends on a dare."
     ],
     "depressed": [
-      "teen depressed You lie in bed and wonder if there’s any point in living.",
-      "teen depressed You look at the “F” on your math test and sigh.",
-      "teen depressed You lock yourself in your room and play sad songs."
+      "depressed You lie in bed and wonder if there’s any point in living.",
+      "depressed You look at the “F” on your math test and sigh.",
+      "depressed You lock yourself in your room and play sad songs."
     ],
     "determined": [
-      "teen determined You put on your new sneakers and decide to run a mile today.",
-      "teen determined You ask the store clerk if other stores have the shoes. You’re going to buy them!",
-      "teen determined You lock yourself in the room and refuse to come out until you finish the report."
+      "determined You put on your new sneakers and decide to run a mile today.",
+      "determined You ask the store clerk if other stores have the shoes. You’re going to buy them!",
+      "determined You lock yourself in the room and refuse to come out until you finish the report."
     ],
     "disgust": [
-      "teen disgust You see someone clearly drunk and throwing up on the street.",
-      "teen disgust A fly gets in your mouth and you spit it out.",
-      "teen disgust You see a child pick their nose and then stick their finger in their mouth."
+      "disgust You see someone clearly drunk and throwing up on the street.",
+      "disgust A fly gets in your mouth and you spit it out.",
+      "disgust You see a child pick their nose and then stick their finger in their mouth."
     ],
     "embarrassed": [
-      "teen embarrassed You realize you’ve been wearing your shirt backwards.",
-      "teen embarrassed Your friend crinkled their nose and asks if anyone farted.",
-      "teen embarrassed You trip on the way down the stairs and people ask if you’re okay."
+      "embarrassed You realize you’ve been wearing your shirt backwards.",
+      "embarrassed Your friend crinkled their nose and asks if anyone farted.",
+      "embarrassed You trip on the way down the stairs and people ask if you’re okay."
     ],
     "frustrated": [
-      "teen frustrated You wonder if it’s time for a tutor after failing another math test yet again.",
-      "teen frustrated You find that your jeans don’t fit you anymore.",
-      "teen frustrated You try to open the door with your keys, but can’t get it to open."
+      "frustrated You wonder if it’s time for a tutor after failing another math test yet again.",
+      "frustrated You find that your jeans don’t fit you anymore.",
+      "frustrated You try to open the door with your keys, but can’t get it to open."
     ],
     "horrified": [
-      "teen horrified You drop your phone down the elevator shaft.",
-      "teen horrified Your younger sister comes to you crying while holding her broken arm.",
-      "teen horrified You realize you forgot the science fair was this weekend. You need to start now!"
+      "horrified You drop your phone down the elevator shaft.",
+      "horrified Your younger sister comes to you crying while holding her broken arm.",
+      "horrified You realize you forgot the science fair was this weekend. You need to start now!"
     ],
     "lucky": [
-      "teen lucky You win a cake at the cake walk during the school’s carnival.",
-      "teen lucky You get the last plate of extra chocolate chip brownies in the cafeteria.",
-      "teen lucky You find $20 on the ground."
+      "lucky You win a cake at the cake walk during the school’s carnival.",
+      "lucky You get the last plate of extra chocolate chip brownies in the cafeteria.",
+      "lucky You find $20 on the ground."
     ],
     "insecurity": [
-      "teen insecurity You wonder if your shirt looks too tight on you.",
-      "teen insecurity You wonder if people will notice the new pimple on your face.",
-      "teen insecurity You want to buy clothes that are less childish."
+      "insecurity You wonder if your shirt looks too tight on you.",
+      "insecurity You wonder if people will notice the new pimple on your face.",
+      "insecurity You want to buy clothes that are less childish."
     ],
     "inspired": [
-      "teen inspired You watch your friend expertly strum the guitar and hope you’ll be that good one day.",
-      "teen inspired You get so inspired watching the new animation film that you try your hand at drawing.",
-      "teen inspired You find old pictures and decide to hang them around your room."
+      "inspired You watch your friend expertly strum the guitar and hope you’ll be that good one day.",
+      "inspired You get so inspired watching the new animation film that you try your hand at drawing.",
+      "inspired You find old pictures and decide to hang them around your room."
     ],
     "lazy": [
-      "teen lazy You have so much to do that you decide to take a nap.",
-      "teen lazy You slowly drag your feet on the pavement as you walk.",
-      "teen lazy You look at your homework and decide to catch up on your shows first."
+      "lazy You have so much to do that you decide to take a nap.",
+      "lazy You slowly drag your feet on the pavement as you walk.",
+      "lazy You look at your homework and decide to catch up on your shows first."
     ],
     "pessimistic": [
-      "teen pessimistic You skip guitar lessons today; you aren’t getting better anyway.",
-      "teen pessimistic You look at your homework and wonder what the point is in trying.",
-      "teen pessimistic You don’t even look at your grade on the test and just stuff it deep into your backpack."
+      "pessimistic You skip guitar lessons today; you aren’t getting better anyway.",
+      "pessimistic You look at your homework and wonder what the point is in trying.",
+      "pessimistic You don’t even look at your grade on the test and just stuff it deep into your backpack."
     ],
     "death": [
-      "teen death ",
-      "teen death ",
-      "teen death "
+      "Death ",
+      "Death ",
+      "Death "
     ],
     "hungry": [
-      "teen hungry You go to the vending machine and buy three candy bars and a bag of chips.",
-      "teen hungry You open the fridge and look for last night’s leftovers.",
-      "teen hungry You look for the graham crackers, chocolate and marshmallows to make s’mores."
+      "hungry You go to the vending machine and buy three candy bars and a bag of chips.",
+      "hungry You open the fridge and look for last night’s leftovers.",
+      "hungry You look for the graham crackers, chocolate and marshmallows to make s’mores."
     ]
   },
   "adult": {
@@ -847,9 +837,9 @@
       "pessimistic You cancel your gym membership because you know you’re never going to go."
     ],
     "death": [
-      "death ",
-      "death ",
-      "death "
+      "Death ",
+      "Death ",
+      "Death "
     ],
     "hungry": [
       "hungry You order pizza, buffalo wings, and mozzarella sticks over the phone.",
@@ -1059,9 +1049,9 @@
       "pessimistic You wonder why anyone works hard in life when we’re all going to die anyway."
     ],
     "death": [
-      "death ",
-      "death ",
-      "death "
+      "Death ",
+      "Death ",
+      "Death "
     ],
     "hungry": [
       "hungry You open the freezer to get a scoop of that new flavor of Ben & Jerry’s you bought last weekend.",
