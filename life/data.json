@@ -1,1262 +1,1072 @@
 {
   "infant": {
     "love": [
-      "infant love 1",
-      "infant love 2",
-      "infant love 3"
+      "love ",
+      "love ",
+      "love "
     ],
     "hate": [
-      "infant angry 1",
-      "infant angry 2",
-      "infant angry 3"
+      "angry ",
+      "angry ",
+      "angry "
     ],
     "despair": [
-      "infant despair 1",
-      "infant despair 2",
-      "infant despair 3"
+      "despair ",
+      "despair ",
+      "despair "
     ],
     "anger": [
-      "infant anger 1",
-      "infant anger 2",
-      "infant anger 3"
+      "anger ",
+      "anger ",
+      "anger "
     ],
     "aggravation": [
-      "infant aggravation 1",
-      "infant aggravation 2",
-      "infant aggravation 3"
+      "aggravation ",
+      "aggravation ",
+      "aggravation "
     ],
     "happiness": [
-      "infant happiness 1",
-      "infant happiness 2",
-      "infant happiness 3"
+      "happiness ",
+      "happiness ",
+      "happiness "
     ],
     "anxiousness": [
-      "infant anxiousness 1",
-      "infant anxiousness 2",
-      "infant anxiousness 3"
+      "anxiousness ",
+      "anxiousness ",
+      "anxiousness "
     ],
     "sadness": [
-      "infant sadness 1",
-      "infant sadness 2",
-      "infant sadness 3"
+      "sadness ",
+      "sadness ",
+      "sadness "
     ],
     "scared": [
-      "infant scared 1",
-      "infant scared 2",
-      "infant scared 3"
+      "scared ",
+      "scared ",
+      "scared "
     ],
     "surprised": [
-      "infant surprised 1",
-      "infant surprised 2",
-      "infant surprised 3"
+      "surprised ",
+      "surprised ",
+      "surprised "
     ],
     "stressed": [
-      "infant stressed 1",
-      "infant stressed 2",
-      "infant stressed 3"
+      "stressed ",
+      "stressed ",
+      "stressed "
     ],
     "jealousy": [
-      "infant jealousy 1",
-      "infant jealousy 2",
-      "infant jealousy 3"
+      "jealousy ",
+      "jealousy ",
+      "jealousy "
     ],
     "curiosity": [
-      "infant curiosity 1",
-      "infant curiosity 2",
-      "infant curiosity 3"
+      "curiosity ",
+      "curiosity ",
+      "curiosity "
     ],
     "excitement": [
-      "infant excitement 1",
-      "infant excitement 2",
-      "infant excitement 3"
+      "excitement ",
+      "excitement ",
+      "excitement "
     ],
     "pride": [
-      "infant pride 1",
-      "infant pride 2",
-      "infant pride 3"
+      "pride ",
+      "pride ",
+      "pride "
     ],
     "greedy": [
-      "infant greedy 1",
-      "infant greedy 2",
-      "infant greedy 3"
+      "greedy ",
+      "greedy ",
+      "greedy "
     ],
     "alert": [
-      "infant alert 1",
-      "infant alert 2",
-      "infant alert 3"
+      "alert ",
+      "alert ",
+      "alert "
     ],
     "annoyed": [
-      "infant annoyed 1",
-      "infant annoyed 2",
-      "infant annoyed 3"
+      "annoyed ",
+      "annoyed ",
+      "annoyed "
     ],
     "amused": [
-      "infant amused 1",
-      "infant amused 2",
-      "infant amused 3"
+      "amused ",
+      "amused ",
+      "amused "
     ],
     "ashamed": [
-      "infant ashamed 1",
-      "infant ashamed 2",
-      "infant ashamed 3"
+      "ashamed ",
+      "ashamed ",
+      "ashamed "
     ],
     "attraction": [
-      "infant attraction 1",
-      "infant attraction 2",
-      "infant attraction 3"
+      "attraction ",
+      "attraction ",
+      "attraction "
     ],
     "betrayed": [
-      "infant betrayed 1",
-      "infant betrayed 2",
-      "infant betrayed 3"
+      "betrayed ",
+      "betrayed ",
+      "betrayed "
     ],
     "bitter": [
-      "infant bitter 1",
-      "infant bitter 2",
-      "infant bitter 3"
+      "bitter ",
+      "bitter ",
+      "bitter "
     ],
     "bored": [
-      "infant bored 1",
-      "infant bored 2",
-      "infant bored 3"
+      "bored ",
+      "bored ",
+      "bored "
     ],
     "calm": [
-      "infant calm 1",
-      "infant calm 2",
-      "infant calm 3"
+      "calm ",
+      "calm ",
+      "calm "
     ],
     "cheerful": [
-      "infant cheerful 1",
-      "infant cheerful 2",
-      "infant cheerful 3"
+      "cheerful ",
+      "cheerful ",
+      "cheerful "
     ],
     "cocky": [
-      "infant cocky 1",
-      "infant cocky 2",
-      "infant cocky 3"
+      "cocky ",
+      "cocky ",
+      "cocky "
     ],
     "courageous": [
-      "infant courageous 1",
-      "infant courageous 2",
-      "infant courageous 3"
+      "courageous ",
+      "courageous ",
+      "courageous "
     ],
     "depressed": [
-      "infant depressed 1",
-      "infant depressed 2",
-      "infant depressed 3"
+      "depressed ",
+      "depressed ",
+      "depressed "
     ],
     "determined": [
-      "infant determined 1",
-      "infant determined 2",
-      "infant determined 3"
+      "determined ",
+      "determined ",
+      "determined "
     ],
     "disgust": [
-      "infant disgust 1",
-      "infant disgust 2",
-      "infant disgust 3"
+      "disgust ",
+      "disgust ",
+      "disgust "
     ],
     "embarrassed": [
-      "infant embarrassed 1",
-      "infant embarrassed 2",
-      "infant embarrassed 3"
+      "embarrassed ",
+      "embarrassed ",
+      "embarrassed "
     ],
     "frustrated": [
-      "infant frustrated 1",
-      "infant frustrated 2",
-      "infant frustrated 3"
+      "frustrated ",
+      "frustrated ",
+      "frustrated "
     ],
     "hopeful": [
-      "infant hopeful 1",
-      "infant hopeful 2",
-      "infant hopeful 3"
+      "hopeful ",
+      "hopeful ",
+      "hopeful "
     ],
     "horrified": [
-      "infant horrified 1",
-      "infant horrified 2",
-      "infant horrified 3"
+      "horrified ",
+      "horrified ",
+      "horrified "
     ],
     "humiliated": [
-      "infant humiliated 1",
-      "infant humiliated 2",
-      "infant humiliated 3"
+      "humiliated ",
+      "humiliated ",
+      "humiliated "
     ],
     "lucky": [
-      "infant lucky 1",
-      "infant lucky 2",
-      "infant lucky 3"
+      "lucky ",
+      "lucky ",
+      "lucky "
     ],
     "insanity": [
-      "infant insanity 1",
-      "infant insanity 2",
-      "infant insanity 3"
+      "insanity ",
+      "insanity ",
+      "insanity "
     ],
     "insecurity": [
-      "infant insecurity 1",
-      "infant insecurity 2",
-      "infant insecurity 3"
+      "insecurity ",
+      "insecurity ",
+      "insecurity "
     ],
     "inspired": [
-      "infant inspired 1",
-      "infant inspired 2",
-      "infant inspired 3"
+      "inspired ",
+      "inspired ",
+      "inspired "
     ],
     "intimidated": [
-      "infant intimidated 1",
-      "infant intimidated 2",
-      "infant intimidated 3"
+      "intimidated ",
+      "intimidated ",
+      "intimidated "
     ],
     "lazy": [
-      "infant lazy 1",
-      "infant lazy 2",
-      "infant lazy 3"
+      "lazy ",
+      "lazy ",
+      "lazy "
     ],
     "pessimistic": [
-      "infant pessimistic 1",
-      "infant pessimistic 2",
-      "infant pessimistic 3"
+      "pessimistic ",
+      "pessimistic ",
+      "pessimistic "
     ],
     "optimistic": [
-      "infant optimistic 1",
-      "infant optimistic 2",
-      "infant optimistic 3"
+      "optimistic ",
+      "optimistic ",
+      "optimistic "
     ],
     "shame": [
-      "infant shame 1",
-      "infant shame 2",
-      "infant shame 3"
+      "shame ",
+      "shame ",
+      "shame "
     ],
     "shy": [
-      "infant shy 1",
-      "infant shy 2",
-      "infant shy 3"
+      "shy ",
+      "shy ",
+      "shy "
     ],
     "threatened": [
-      "infant threatened 1",
-      "infant threatened 2",
-      "infant threatened 3"
+      "threatened ",
+      "threatened ",
+      "threatened "
     ],
     "vengeful": [
-      "infant vengeful 1",
-      "infant vengeful 2",
-      "infant vengeful 3"
+      "vengeful ",
+      "vengeful ",
+      "vengeful "
     ],
     "death": [
-      "infant death 1",
-      "infant death 2",
-      "infant death 3"
+      "death ",
+      "death ",
+      "death "
     ],
     "hungry": [
-      "infant hungry 1",
-      "infant hungry 2",
-      "infant hungry 3"
+      "hungry ",
+      "hungry ",
+      "hungry "
     ]
   },
   "child": {
     "love": [
-      "child love 1",
-      "child love 2",
-      "child love 3"
-    ],
-    "hate": [
-      "child angry 1",
-      "child angry 2",
-      "child angry 3"
+      "love  Your mom surprises you with the new toy you’ve been asking for! She’s the best!",
+      "love  You look down and see that your dad has made your favorite meal for you.",
+      "love  Your mom gives you a big kiss and hugs you so tightly that your ribs start to ache a little."
     ],
     "despair": [
-      "child despair 1",
-      "child despair 2",
-      "child despair 3"
+      "despair  You open your bag of chips and immediately drop the contents onto the floor.",
+      "despair  Your friend un-invites you to their birthday party.",
+      "despair  You can’t find your favorite shoes anywhere!"
     ],
     "anger": [
-      "child anger 1",
-      "child anger 2",
-      "child anger 3"
+      "anger  Your friend yells at you for cutting them in line.",
+      "anger  Your friend tells you Billy has been mean to them.",
+      "anger  Your friend spilled their soda on your favorite shirt!"
     ],
     "aggravation": [
-      "child aggravation 1",
-      "child aggravation 2",
-      "child aggravation 3"
+      "aggravation  You look at the note your teacher has given you. Your parents are not going to be happy. It’s so not fair!",
+      "aggravation  You’re trying to explain why you received a “Satisfactory” in Basic Math, but your parents aren’t understanding.",
+      "aggravation  You accidentally get marker all over your favorite shirt."
     ],
     "happiness": [
-      "child happiness 1",
-      "child happiness 2",
-      "child happiness 3"
+      "happiness  Your parents buy you a new pair of sneakers at the mall.",
+      "happiness  You get to go to two birthdays this week!",
+      "happiness  Your mother allowed you to get the gummy candy at the grocery store. You didn't need to cry."
     ],
     "anxiousness": [
-      "child anxiousness 1",
-      "child anxiousness 2",
-      "child anxiousness 3"
+      "anxiousness  You're captivated by your favorite tv show, but you really need to go to the bathroom!",
+      "anxiousness  You can’t find the last crayon in your 64-crayon box.",
+      "anxiousness  Your mom tells you it’s time for bed. But you need to know how the movie ends!"
     ],
     "sadness": [
-      "child sadness 1",
-      "child sadness 2",
-      "child sadness 3"
+      "sadness  Your friend tells you they don’t want to be friends anymore.",
+      "sadness  Your parents won’t let you get the new toy you wanted.",
+      "sadness You accidentally break your favorite toy. "
     ],
     "scared": [
-      "child scared 1",
-      "child scared 2",
-      "child scared 3"
+      "scared  You climb into your parents’ bed because of the nightmares you've been having.",
+      "scared  You hesitate on top of the slide until your friend pushes you down.",
+      "scared  While riding the ferris wheel you realize you’re afraid of heights."
     ],
     "surprised": [
-      "child surprised 1",
-      "child surprised 2",
-      "child surprised 3"
+      "surprised  Your friends and family throw open the door and yell “Surprise!!” You release a yelp in shock.",
+      "surprised  Your parents tell you that you have mail!",
+      "surprised  Your parents surprise you with your own bike!"
     ],
     "stressed": [
-      "child stressed 1",
-      "child stressed 2",
-      "child stressed 3"
+      "stressed  You overhear your mom and dad fighting in their room.",
+      "stressed  You need to learn your multiplication tables by the end of this week.",
+      "stressed  You learn your grandma hasn’t been feeling well lately."
     ],
     "jealousy": [
-      "child jealousy 1",
-      "child jealousy 2",
-      "child jealousy 3"
+      "jealousy  Your friend already knows how to ride a bike without the training wheels.",
+      "jealousy  Everyone has been talking about how awesome your friend’s new hairstyle is, while no one has commented about yours.",
+      "jealousy  You wish your parents would change their minds about the sleepover next weekend. All of your friends have already gotten permission!"
     ],
     "curiosity": [
-      "child curiosity 1",
-      "child curiosity 2",
-      "child curiosity 3"
+      "curiosity  You wonder what’s inside the large colorful piñata hanging by a string",
+      "curiosity  You shake your gift box and hear a jingle.",
+      "curiosity  You peer into the next door neighbor’s yard and wonder what kind of animal is that large and furry."
     ],
     "excitement": [
-      "child excitement 1",
-      "child excitement 2",
-      "child excitement 3"
+      "excitement  The annual square dance is coming up soon! Better go shopping with your parents!",
+      "excitement  You can’t wait to wear your new clothes this week!",
+      "excitement  Your dad is taking you fishing this weekend! "
     ],
     "pride": [
-      "child pride 1",
-      "child pride 2",
-      "child pride 3"
+      "pride  The limerick you have written gets featured in the school newspaper!",
+      "pride  You finally master how to Double Dutch!",
+      "pride  You learn how to mix colors in art class! Red + Yellow = Orange!"
     ],
     "greedy": [
-      "child greedy 1",
-      "child greedy 2",
-      "child greedy 3"
+      "greedy  You grab the entire tub of ice cream and run to your room.",
+      "greedy  You stick your fingers into your friend’s bag of chips without asking. ",
+      "greedy  You give your parents a two foot long list of what you want for Christmas this year."
     ],
     "alert": [
-      "child alert 1",
-      "child alert 2",
-      "child alert 3"
+      "alert A van pulls up next to you and asks if you want candy. You start walking faster.",
+      "alert You hear strange noises and peer under your bed.",
+      "alert You see a bee near you and you run for your life."
     ],
     "annoyed": [
-      "child annoyed 1",
-      "child annoyed 2",
-      "child annoyed 3"
+      "annoyed  You’ve flipped all your p’s and q’s. Time to re-do your homework!",
+      "annoyed  Your mom is forcing you to practice the piano today.",
+      "annoyed  Your dad won’t let you go to play with your friends until you’ve finished your homework."
     ],
     "amused": [
-      "child amused 1",
-      "child amused 2",
-      "child amused 3"
+      "amused  You realize the marker you’ve been using smells like strawberries.",
+      "amused  You watch a dog lift up it’s leg near a tree. Water sprinkles onto the tree.",
+      "amused  While watching tv, you see a man jumping into a picture frame and ending up in a different world!"
     ],
     "ashamed": [
-      "child ashamed 1",
-      "child ashamed 2",
-      "child ashamed 3"
+      "ashamed  You forgot to do your homework last night.",
+      "ashamed  You take your friend’s pen when she’s not looking because you like it so much.",
+      "ashamed  Your mom asks you if you remember her phone number. You don’t."
     ],
     "attraction": [
-      "child attraction 1",
-      "child attraction 2",
-      "child attraction 3"
+      "attraction  Your friend hands you a bunch of flowers and smiles at you.",
+      "attraction  You find out the person you like likes you back!",
+      "attraction  Your friend holds your hand and you walk together. "
     ],
     "betrayed": [
-      "child betrayed 1",
-      "child betrayed 2",
-      "child betrayed 3"
+      "betrayed Your friend sits with your enemy today. ",
+      "betrayed You don’t receive an invite to the party next week.",
+      "betrayed Your friend has told your crush that you like them."
     ],
     "bitter": [
-      "child bitter 1",
-      "child bitter 2",
-      "child bitter 3"
+      "bitter You lent your friend your favorite pen, but never got it back.",
+      "bitter Your friend rips your favorite shirt by grabbing too hard.",
+      "bitter The bell rings signaling the end of recess while you’re still in line. You don’t get to play Four Square today."
     ],
     "bored": [
-      "child bored 1",
-      "child bored 2",
-      "child bored 3"
+      "bored You look at your homework and wonder when you’ll be done.",
+      "bored You can’t go outside because it’s raining. You lie on the bed and stare at the ceiling.",
+      "bored You look for your jump rope, but can’t find it. You look for something else to do instead."
     ],
     "calm": [
-      "child calm 1",
-      "child calm 2",
-      "child calm 3"
+      "calm You swing on the tire your mom hung up for you recently. ",
+      "calm You lie in the hammock and stare at the sky.",
+      "calm You color in a coloring page while eating some chips."
     ],
     "cheerful": [
-      "child cheerful 1",
-      "child cheerful 2",
-      "child cheerful 3"
+      "cheerful You make freshly-squeezed lemonade with your dad.",
+      "cheerful You play with your neighbor’s dog in the yard.",
+      "cheerful You present your mom with a macaroni sculpture of the neighbor’s dog."
     ],
     "cocky": [
-      "child cocky 1",
-      "child cocky 2",
-      "child cocky 3"
+      "cocky You bring your newest gadget and show it off to your friends.",
+      "cocky You assign yourself as team captain in dodgeball.",
+      "cocky You hand your parents your report card and ask them what they’ll buy you for your good grades."
     ],
     "courageous": [
-      "child courageous 1",
-      "child courageous 2",
-      "child courageous 3"
+      "courageous You decide to try the monkey bars today. ",
+      "courageous You climb the tree to get your friend’s ball back.",
+      "courageous You agree to taste your friend’s exotic lunch."
     ],
     "depressed": [
-      "child depressed 1",
-      "child depressed 2",
-      "child depressed 3"
+      "depressed Your parents have grounded you for a week.",
+      "depressed You hear that your grandpa is dying.",
+      "depressed You refuse to talk to anyone."
     ],
     "determined": [
-      "child determined 1",
-      "child determined 2",
-      "child determined 3"
+      "determined You are determined to clean your room today for your coming sleepover.",
+      "determined You find your markers and decide to make your valentine’s day cards early.",
+      "determined You keep talking to your friend. You know you’re going to get the secret out of them!"
     ],
     "disgust": [
-      "child disgust 1",
-      "child disgust 2",
-      "child disgust 3"
+      "disgust You find your moldy leftover pizza under your bed after two months.",
+      "disgust You open your backpack and realize you never took ate your banana yesterday. It’s gotten everywhere!",
+      "disgust In the middle of jump-roping, you step on a wad of gum. "
     ],
     "embarrassed": [
-      "child embarrassed 1",
-      "child embarrassed 2",
-      "child embarrassed 3"
+      "embarrassed You realize that you’ve put on your shoes on opposite feet.",
+      "embarrassed The teacher snatches your note away and reads it in front of the class.",
+      "embarrassed Your best friend accidentally spills your secret to the rest of your friends."
     ],
     "frustrated": [
-      "child frustrated 1",
-      "child frustrated 2",
-      "child frustrated 3"
-    ],
-    "hopeful": [
-      "child hopeful 1",
-      "child hopeful 2",
-      "child hopeful 3"
+      "frustrated You decide to get velcro shoes after struggling with the laces on your sneakers.",
+      "frustrated You stare at your math homework until the numbers start swirling around the paper. ",
+      "frustrated You lose the spelling bee because of overconfidence. You knew that it was “i” before “e!”"
     ],
     "horrified": [
-      "child horrified 1",
-      "child horrified 2",
-      "child horrified 3"
-    ],
-    "humiliated": [
-      "child humiliated 1",
-      "child humiliated 2",
-      "child humiliated 3"
+      "horrified You see the neighbor’s dog chomping on your favorite toy.",
+      "horrified You find that your food has been stolen.",
+      "horrified The classmate you dislike suddenly plants a kiss on your cheek! Gross!"
     ],
     "lucky": [
-      "child lucky 1",
-      "child lucky 2",
-      "child lucky 3"
-    ],
-    "insanity": [
-      "child insanity 1",
-      "child insanity 2",
-      "child insanity 3"
+      "lucky You are selected as hall monitor this week!",
+      "lucky Your teacher doesn’t catch you passing a note to your friend. Whew!",
+      "lucky Your friend gives you a four-leaf clover and tells you it’s lucky!"
     ],
     "insecurity": [
-      "child insecurity 1",
-      "child insecurity 2",
-      "child insecurity 3"
+      "insecurity You dread PE class because you stink at kickball.",
+      "insecurity You ask your parents for the pair of shoes everyone in your class is wearing.",
+      "insecurity You get chosen last when the captains choose their teams during PE."
     ],
     "inspired": [
-      "child inspired 1",
-      "child inspired 2",
-      "child inspired 3"
-    ],
-    "intimidated": [
-      "child intimidated 1",
-      "child intimidated 2",
-      "child intimidated 3"
+      "inspired Your friend shows you how they designed their sneakers. You decide to try designing yours too. ",
+      "inspired Your parents buy you a deluxe block set. You’re going to build a fort!",
+      "inspired You visit the museum today with your class. Maybe you’ll be a famous artist one day!"
     ],
     "lazy": [
-      "child lazy 1",
-      "child lazy 2",
-      "child lazy 3"
+      "lazy You ask your friend to get you a soda from the fridge. You’re too lazy to move.",
+      "lazy You lie on the floor and take a nap. You couldn’t make it to your bed.",
+      "lazy You stop working on your homework and watch your favorite show instead."
     ],
     "pessimistic": [
-      "child pessimistic 1",
-      "child pessimistic 2",
-      "child pessimistic 3"
-    ],
-    "optimistic": [
-      "child optimistic 1",
-      "child optimistic 2",
-      "child optimistic 3"
-    ],
-    "shame": [
-      "child shame 1",
-      "child shame 2",
-      "child shame 3"
-    ],
-    "shy": [
-      "child shy 1",
-      "child shy 2",
-      "child shy 3"
-    ],
-    "threatened": [
-      "child threatened 1",
-      "child threatened 2",
-      "child threatened 3"
-    ],
-    "vengeful": [
-      "child vengeful 1",
-      "child vengeful 2",
-      "child vengeful 3"
+      "pessimistic You wonder why your mom keeps forcing you to practice piano when you aren’t getting any better.",
+      "pessimistic You wonder why you need to go to school when you don’t pay attention anyway.",
+      "pessimistic You know you’re going to get chosen last in PE again. "
     ],
     "death": [
-      "child death 1",
-      "child death 2",
-      "child death 3"
+      "death ",
+      "death ",
+      "death "
     ],
     "hungry": [
-      "child hungry 1",
-      "child hungry 2",
-      "child hungry 3"
+      "hungry You forgot and left your lunchbox on the counter today.",
+      "hungry You open the cabinet and sneak out three packets of fruit snacks.",
+      "hungry Your stomach growls and you ask for your friend’s banana."
     ]
   },
   "teen": {
     "love": [
-      "teen love 1",
-      "teen love 2",
-      "teen love 3"
+      "teen love Your significant other gives you a handmade scrapbook of your memories together for your anniversary.",
+      "teen love Your dog, Jack, jumps all over you and licks your face.",
+      "teen love You and your younger sister decide to cook dinner for your parents."
     ],
     "hate": [
-      "teen angry 1",
-      "teen angry 2",
-      "teen angry 3"
+      "teen angry ",
+      "teen angry ",
+      "teen angry "
     ],
     "despair": [
-      "teen despair 1",
-      "teen despair 2",
-      "teen despair 3"
+      "teen despair You find that all your white clothes have turned pink because of a red sock.",
+      "teen despair Your mom refuses to let you have an extra slice of pie because you’ve gained weight.",
+      "teen despair You find that the pair of jeans you’ve had your eye on for so long have sold out."
     ],
     "anger": [
-      "teen anger 1",
-      "teen anger 2",
-      "teen anger 3"
+      "teen anger Your dad hammers your boxed set of all ten seasons of your favorite tv show for watching it too often.",
+      "teen anger Your parents refuse to let you leave for the weekend and go to the outdoor concert.",
+      "teen anger Your sibling loses your favorite shirt after borrowing it without asking."
     ],
     "aggravation": [
-      "teen aggravation 1",
-      "teen aggravation 2",
-      "teen aggravation 3"
+      "teen aggravation Your parents don’t understand how important it is to go to the party this weekend.",
+      "teen aggravation Your parents insist on chaperoning the trip with your friends.",
+      "teen aggravation You realize you left your keys in your last class."
     ],
     "happiness": [
-      "teen happiness 1",
-      "teen happiness 2",
-      "teen happiness 3"
+      "teen happiness You finish painting the walls of your room with your new favorite color.",
+      "teen happiness You enjoy your favorite meal with your friend in front of the TV.",
+      "teen happiness Your friend says the meal is on them and asks if you want dessert as well."
     ],
     "anxiousness": [
-      "teen anxiousness 1",
-      "teen anxiousness 2",
-      "teen anxiousness 3"
+      "teen anxiousness You hide behind the couch ready to yell “Surprise” when your best friend walks through the door.",
+      "teen anxiousness Your significant other’s birthday is this weekend, and you have no idea what to buy them.",
+      "teen anxiousness You debate when to show your parents your “C” in Geometry."
     ],
     "sadness": [
-      "teen sadness 1",
-      "teen sadness 2",
-      "teen sadness 3"
+      "teen sadness Your significant other tells you that they want to break up.",
+      "teen sadness Your younger sister tells you that she hates you.",
+      "teen sadness You find your old teddy bear and reminisce."
     ],
     "scared": [
-      "teen scared 1",
-      "teen scared 2",
-      "teen scared 3"
+      "teen scared You’re stranded at the party and everyone is drunk already.",
+      "teen scared You receive a call that your mom is in the ER.",
+      "teen scared Your friend tells you that they’re being threatened by another classmate."
     ],
     "surprised": [
-      "teen surprised 1",
-      "teen surprised 2",
-      "teen surprised 3"
+      "teen surprised Your significant other surprises you with a box of chocolates when you open the door.",
+      "teen surprised You see your best friend kissing their crush.",
+      "teen surprised You find a note from a secret admirer in your locker."
     ],
     "stressed": [
-      "teen stressed 1",
-      "teen stressed 2",
-      "teen stressed 3"
+      "teen stressed You need to start thinking about the future. Are you applying to college? Where are you applying?",
+      "teen stressed Your friend yells at you for not keeping their secret. You have no idea what they’re talking about.",
+      "teen stressed You need to work on your applications soon. The deadline is coming!"
     ],
     "jealousy": [
-      "teen jealousy 1",
-      "teen jealousy 2",
-      "teen jealousy 3"
+      "teen jealousy Your friend is leaving for Europe this weekend. You’re stuck at home babysitting.",
+      "teen jealousy You see your crush flirting with a classmate.",
+      "teen jealousy Your friend boasts that they got straight A’s this quarter."
     ],
     "curiosity": [
-      "teen curiosity 1",
-      "teen curiosity 2",
-      "teen curiosity 3"
+      "teen curiosity You wonder if your crush likes you back.",
+      "teen curiosity Your friend gives you a box and tells you to open it.",
+      "teen curiosity Your friend gives you a letter and tells you not to open it until they’re gone."
     ],
     "excitement": [
-      "teen excitement 1",
-      "teen excitement 2",
-      "teen excitement 3"
+      "teen excitement Congratulations! You got your driver’s license on your first try!",
+      "teen excitement You and your friends go shopping for prom.",
+      "teen excitement Your significant other puts their hands over your eyes and leads you through the door."
     ],
     "pride": [
-      "teen pride 1",
-      "teen pride 2",
-      "teen pride 3"
+      "teen pride You buy a really nice shirt for 75% off!",
+      "teen pride You get straight A’s this quarter!",
+      "teen pride You are chosen as club president by the members."
     ],
     "greedy": [
-      "teen greedy 1",
-      "teen greedy 2",
-      "teen greedy 3"
+      "teen greedy You already bought an expensive pair of jeans, but decide to get this watch as well.",
+      "teen greedy You go to the cafeteria and buy lunch for two because you’re so hungry.",
+      "teen greedy You snatch back the bag of chips your friend plucked from your arms and tell them to get their own."
     ],
     "alert": [
-      "teen alert 1",
-      "teen alert 2",
-      "teen alert 3"
+      "teen alert A drunk guy comes pounding through the door, screaming his head off.",
+      "teen alert You’re home alone and someone knocks on the front door.",
+      "teen alert Your friend tells you to throw the egg right when they hold up two fingers."
     ],
     "annoyed": [
-      "teen annoyed 1",
-      "teen annoyed 2",
-      "teen annoyed 3"
+      "teen annoyed Your friend keeps smacking their gum.",
+      "teen annoyed The person sitting behind you keeps kicking the back of your chair.",
+      "teen annoyed Your friend isn’t answering their phone."
     ],
     "amused": [
-      "teen amused 1",
-      "teen amused 2",
-      "teen amused 3"
+      "teen amused Your parents start dancing in the middle of dinner.",
+      "teen amused You watch a salesman do a dance for the customers.",
+      "teen amused Your sister tells you that she has trained the family pet, Jack, to high-five."
     ],
     "ashamed": [
-      "teen ashamed 1",
-      "teen ashamed 2",
-      "teen ashamed 3"
+      "teen ashamed You get caught trying to steal a sweater out of the store.",
+      "teen ashamed Your parents ground you for getting drunk last night.",
+      "teen ashamed You see someone watching just as you’ve stuck the fallen piece of gum back in your mouth."
     ],
     "attraction": [
-      "teen attraction 1",
-      "teen attraction 2",
-      "teen attraction 3"
+      "teen attraction Your significant other smiles at you and holds your hand.",
+      "teen attraction Your significant other tells you that they love you.",
+      "teen attraction You see your celebrity crush on the screen."
     ],
     "betrayed": [
-      "teen betrayed 1",
-      "teen betrayed 2",
-      "teen betrayed 3"
+      "teen betrayed Your little sister rats you out to your parents saying that you went out last night.",
+      "teen betrayed Your best friend is hanging out with your sworn enemy.",
+      "teen betrayed You find your friend at the movies when they told you they were sick."
     ],
     "bitter": [
-      "teen bitter 1",
-      "teen bitter 2",
-      "teen bitter 3"
+      "teen bitter Your friend apologizes for hanging out with your sworn enemy.",
+      "teen bitter Your parents won’t let you buy the mp3 player with your own money.",
+      "teen bitter Your parents tell you that you need to work harder in school if you want to succeed in life."
     ],
     "bored": [
-      "teen bored 1",
-      "teen bored 2",
-      "teen bored 3"
+      "teen bored You have no plans and none of your friends are answering their phones.",
+      "teen bored You have two more hours until your shift ends and nothing to do.",
+      "teen bored You look at the clock and wish it to go faster. Fifteen more minutes!"
     ],
     "calm": [
-      "teen calm 1",
-      "teen calm 2",
-      "teen calm 3"
+      "teen calm You watch reruns of the show you used to love while lying on the bed.",
+      "teen calm You take your dog, Jack, for a long walk around the neighborhood.",
+      "teen calm You watch the sky while lying on the grass."
     ],
     "cheerful": [
-      "teen cheerful 1",
-      "teen cheerful 2",
-      "teen cheerful 3"
+      "teen cheerful Your friend opts for the super-sized bag of popcorn so that you can have some too.",
+      "teen cheerful You enjoy a nice meal with your mom and dad.",
+      "teen cheerful Your mom makes you her famous mini peach pies."
     ],
     "cocky": [
-      "teen cocky 1",
-      "teen cocky 2",
-      "teen cocky 3"
+      "teen cocky You finish first in the school marathon.",
+      "teen cocky You assign yourself as team leader in your group project.",
+      "teen cocky You are chosen as the MVP of your team."
     ],
     "courageous": [
-      "teen courageous 1",
-      "teen courageous 2",
-      "teen courageous 3"
+      "teen courageous You buy a bottle of hair dye at the drugstore and decide to go for it at home.",
+      "teen courageous You tell your significant other that you love them for the first time.",
+      "teen courageous You go sky-diving with your friends on a dare."
     ],
     "depressed": [
-      "teen depressed 1",
-      "teen depressed 2",
-      "teen depressed 3"
+      "teen depressed You lie in bed and wonder if there’s any point in living.",
+      "teen depressed You look at the “F” on your math test and sigh.",
+      "teen depressed You lock yourself in your room and play sad songs."
     ],
     "determined": [
-      "teen determined 1",
-      "teen determined 2",
-      "teen determined 3"
+      "teen determined You put on your new sneakers and decide to run a mile today.",
+      "teen determined You ask the store clerk if other stores have the shoes. You’re going to buy them!",
+      "teen determined You lock yourself in the room and refuse to come out until you finish the report."
     ],
     "disgust": [
-      "teen disgust 1",
-      "teen disgust 2",
-      "teen disgust 3"
+      "teen disgust You see someone clearly drunk and throwing up on the street.",
+      "teen disgust A fly gets in your mouth and you spit it out.",
+      "teen disgust You see a child pick their nose and then stick their finger in their mouth."
     ],
     "embarrassed": [
-      "teen embarrassed 1",
-      "teen embarrassed 2",
-      "teen embarrassed 3"
+      "teen embarrassed You realize you’ve been wearing your shirt backwards.",
+      "teen embarrassed Your friend crinkled their nose and asks if anyone farted.",
+      "teen embarrassed You trip on the way down the stairs and people ask if you’re okay."
     ],
     "frustrated": [
-      "teen frustrated 1",
-      "teen frustrated 2",
-      "teen frustrated 3"
-    ],
-    "hopeful": [
-      "teen hopeful 1",
-      "teen hopeful 2",
-      "teen hopeful 3"
+      "teen frustrated You wonder if it’s time for a tutor after failing another math test yet again.",
+      "teen frustrated You find that your jeans don’t fit you anymore.",
+      "teen frustrated You try to open the door with your keys, but can’t get it to open."
     ],
     "horrified": [
-      "teen horrified 1",
-      "teen horrified 2",
-      "teen horrified 3"
-    ],
-    "humiliated": [
-      "teen humiliated 1",
-      "teen humiliated 2",
-      "teen humiliated 3"
+      "teen horrified You drop your phone down the elevator shaft.",
+      "teen horrified Your younger sister comes to you crying while holding her broken arm.",
+      "teen horrified You realize you forgot the science fair was this weekend. You need to start now!"
     ],
     "lucky": [
-      "teen lucky 1",
-      "teen lucky 2",
-      "teen lucky 3"
-    ],
-    "insanity": [
-      "teen insanity 1",
-      "teen insanity 2",
-      "teen insanity 3"
+      "teen lucky You win a cake at the cake walk during the school’s carnival.",
+      "teen lucky You get the last plate of extra chocolate chip brownies in the cafeteria.",
+      "teen lucky You find $20 on the ground."
     ],
     "insecurity": [
-      "teen insecurity 1",
-      "teen insecurity 2",
-      "teen insecurity 3"
+      "teen insecurity You wonder if your shirt looks too tight on you.",
+      "teen insecurity You wonder if people will notice the new pimple on your face.",
+      "teen insecurity You want to buy clothes that are less childish."
     ],
     "inspired": [
-      "teen inspired 1",
-      "teen inspired 2",
-      "teen inspired 3"
-    ],
-    "intimidated": [
-      "teen intimidated 1",
-      "teen intimidated 2",
-      "teen intimidated 3"
+      "teen inspired You watch your friend expertly strum the guitar and hope you’ll be that good one day.",
+      "teen inspired You get so inspired watching the new animation film that you try your hand at drawing.",
+      "teen inspired You find old pictures and decide to hang them around your room."
     ],
     "lazy": [
-      "teen lazy 1",
-      "teen lazy 2",
-      "teen lazy 3"
+      "teen lazy You have so much to do that you decide to take a nap.",
+      "teen lazy You slowly drag your feet on the pavement as you walk.",
+      "teen lazy You look at your homework and decide to catch up on your shows first."
     ],
     "pessimistic": [
-      "teen pessimistic 1",
-      "teen pessimistic 2",
-      "teen pessimistic 3"
-    ],
-    "optimistic": [
-      "teen optimistic 1",
-      "teen optimistic 2",
-      "teen optimistic 3"
-    ],
-    "shame": [
-      "teen shame 1",
-      "teen shame 2",
-      "teen shame 3"
-    ],
-    "shy": [
-      "teen shy 1",
-      "teen shy 2",
-      "teen shy 3"
-    ],
-    "threatened": [
-      "teen threatened 1",
-      "teen threatened 2",
-      "teen threatened 3"
-    ],
-    "vengeful": [
-      "teen vengeful 1",
-      "teen vengeful 2",
-      "teen vengeful 3"
+      "teen pessimistic You skip guitar lessons today; you aren’t getting better anyway.",
+      "teen pessimistic You look at your homework and wonder what the point is in trying.",
+      "teen pessimistic You don’t even look at your grade on the test and just stuff it deep into your backpack."
     ],
     "death": [
-      "teen death 1",
-      "teen death 2",
-      "teen death 3"
+      "teen death ",
+      "teen death ",
+      "teen death "
     ],
     "hungry": [
-      "teen hungry 1",
-      "teen hungry 2",
-      "teen hungry 3"
+      "teen hungry You go to the vending machine and buy three candy bars and a bag of chips.",
+      "teen hungry You open the fridge and look for last night’s leftovers.",
+      "teen hungry You look for the graham crackers, chocolate and marshmallows to make s’mores."
     ]
   },
   "adult": {
     "love": [
-      "adult love 1",
-      "adult love 2",
-      "adult love 3"
-    ],
-    "hate": [
-      "adult angry 1",
-      "adult angry 2",
-      "adult angry 3"
+      "love Your spouse hands you roses and says, “Happy Anniversary!”",
+      "love Your daughter hands you a handmade card with a drawing of the family.",
+      "love You hold your son’s hand and walk with him to his first playdate."
     ],
     "despair": [
-      "adult despair 1",
-      "adult despair 2",
-      "adult despair 3"
+      "despair You find that your dog, Jack, has rummaged through the trash can and left remains all over the floor.",
+      "despair You want to go for a dinner date with your spouse this evening, but can’t find a single babysitter.",
+      "despair You find new stretch marks on your body."
     ],
     "anger": [
-      "adult anger 1",
-      "adult anger 2",
-      "adult anger 3"
+      "anger Your daughter yells at you for buying her the wrong shoes.",
+      "anger You get a call from your son’s teacher that he hasn’t done his homework for the third time this week.",
+      "anger Your spouse turns up the radio instead of listening to you."
     ],
     "aggravation": [
-      "adult aggravation 1",
-      "adult aggravation 2",
-      "adult aggravation 3"
+      "aggravation Your son and daughter won’t stop arguing in the backseat of the car. ",
+      "aggravation You find your spouse’s towel on the bathroom floor, again!",
+      "aggravation You realize you’ve forgotten the kids’ meals on the counter."
     ],
     "happiness": [
-      "adult happiness 1",
-      "adult happiness 2",
-      "adult happiness 3"
+      "happiness Your friend calls and tells you that they’ll babysit for you this weekend.",
+      "happiness Your dog, Jack, climbs into your lap while you take a few minutes to close your eyes on the sofa.",
+      "happiness Your new bed has arrived!"
     ],
     "anxiousness": [
-      "adult anxiousness 1",
-      "adult anxiousness 2",
-      "adult anxiousness 3"
+      "anxiousness You prepare yourself for the parent-teacher conference.",
+      "anxiousness You wait for the results of your physical exam.",
+      "anxiousness Your daughter starts asking when she can start her driving lessons."
     ],
     "sadness": [
-      "adult sadness 1",
-      "adult sadness 2",
-      "adult sadness 3"
+      "sadness Your son tells you that he doesn’t want to go to school anymore because he has no friends.",
+      "sadness You find an old picture of your grandmother wearing a lovely dress and a stunning smile.",
+      "sadness You listen to songs of your childhood, and wish you were young again."
     ],
     "scared": [
-      "adult scared 1",
-      "adult scared 2",
-      "adult scared 3"
+      "scared You spot a giant cockroach a foot away from you and jump.",
+      "scared Your spouse pops out of the corner and yells, “Boo!”",
+      "scared You hear news of a kidnapper on the loose in the city."
     ],
     "surprised": [
-      "adult surprised 1",
-      "adult surprised 2",
-      "adult surprised 3"
+      "surprised Your spouse tells you you’re going out tonight, they’ve even arranged playdates for the kids!",
+      "surprised Your daughter solemnly comes up to you, gives you a hug, and whispers, “I love you.”",
+      "surprised Your daughter tells you she wants to start wearing makeup."
     ],
     "stressed": [
-      "adult stressed 1",
-      "adult stressed 2",
-      "adult stressed 3"
+      "stressed You need to leave for work, but your car won’t start.",
+      "stressed Your mother-in-law’s family is coming for dinner this week and you haven’t decided what to cook yet.",
+      "stressed You need to get everyone in the car in the next five minutes or you’ll be late!"
     ],
     "jealousy": [
-      "adult jealousy 1",
-      "adult jealousy 2",
-      "adult jealousy 3"
+      "jealousy You walk into your neighbor’s home and wonder how they keep their house so clean.",
+      "jealousy Your single friend tells you they’re going to Cabo this weekend on a whim.",
+      "jealousy Your friend boasts that their child already knows three languages."
     ],
     "curiosity": [
-      "adult curiosity 1",
-      "adult curiosity 2",
-      "adult curiosity 3"
+      "curiosity You find a note in your son’s backpack from a girl.",
+      "curiosity You haven’t been to the attic in a while. You wonder what’s up there.",
+      "curiosity You realize the window seat is hallow. You open it and take a look inside."
     ],
     "excitement": [
-      "adult excitement 1",
-      "adult excitement 2",
-      "adult excitement 3"
+      "excitement You go to your high school reunion.",
+      "excitement You and your friends plan a weekend of great food and fun on the beach.",
+      "excitement Your two-week vacation is coming up!"
     ],
     "pride": [
-      "adult pride 1",
-      "adult pride 2",
-      "adult pride 3"
+      "pride You watch your daughter help your son with this homework.",
+      "pride Your hang up your son’s handmade card on the fridge door.",
+      "pride Your daughter’s teacher tells you that your daughter is exceptionally good at Physics."
     ],
     "greedy": [
-      "adult greedy 1",
-      "adult greedy 2",
-      "adult greedy 3"
+      "greedy You spend $100 on lottery tickets hoping to win millions.",
+      "greedy You buy three cartons of ice cream at the supermarket because you can’t decide on a flavor.",
+      "greedy You grab three of the free donuts when you get to work."
     ],
     "alert": [
-      "adult alert 1",
-      "adult alert 2",
-      "adult alert 3"
+      "alert You see your daughter with a group of boys.",
+      "alert You see your son playing too close to the street and yell at him to come closer.",
+      "alert Rain starts to fall as you drive down the highway."
     ],
     "annoyed": [
-      "adult annoyed 1",
-      "adult annoyed 2",
-      "adult annoyed 3"
+      "annoyed Your son and daughter take turns asking “Are we there yet?” ",
+      "annoyed A woman cuts in front of you in line.",
+      "annoyed Your spouse grumbles that you’re messier than the kids most times."
     ],
     "amused": [
-      "adult amused 1",
-      "adult amused 2",
-      "adult amused 3"
+      "amused You watch your son act as a bunch of grapes in his middle school play.",
+      "amused You watch your spouse try to cover up for their little white lie.",
+      "amused You watch your son put his shoes on opposite feet."
     ],
     "ashamed": [
-      "adult ashamed 1",
-      "adult ashamed 2",
-      "adult ashamed 3"
+      "ashamed As your dog, Jack, starts to poo, you realize you left all the doggy bags in the car. ",
+      "ashamed Your spouse scolds you for spoiling your daughter.",
+      "ashamed You splurge on a nice jacket you know you shouldn’t be buying."
     ],
     "attraction": [
-      "adult attraction 1",
-      "adult attraction 2",
-      "adult attraction 3"
+      "attraction Your spouse tells you that you look very nice today.",
+      "attraction You hug your spouse and enjoy the smell of their hair.",
+      "attraction You see a very attractive model as you flip through the magazine and sigh."
     ],
     "betrayed": [
-      "adult betrayed 1",
-      "adult betrayed 2",
-      "adult betrayed 3"
+      "betrayed Your daughter tells you that she’d rather watch a movie with her friends instead of you.",
+      "betrayed Your spouse forgets your birthday.",
+      "betrayed You run into your spouse at the mall when you thought they were at work."
     ],
     "bitter": [
-      "adult bitter 1",
-      "adult bitter 2",
-      "adult bitter 3"
+      "bitter You decide to skip your workout this afternoon, because you figure you have no one you need to impress.",
+      "bitter You watch the television and wonder why your spouse hasn’t returned your call yet.",
+      "bitter You empty the dishwasher because it’s clear your spouse isn’t doing it anytime soon."
     ],
     "bored": [
-      "adult bored 1",
-      "adult bored 2",
-      "adult bored 3"
+      "bored You flip through a magazine while you wait for the doctor to call you in.",
+      "bored You stare at the television screen and feel your eyes dry out as you forget to blink.",
+      "bored You stare at the ceiling and wonder if you can still touch your toes."
     ],
     "calm": [
-      "adult calm 1",
-      "adult calm 2",
-      "adult calm 3"
+      "calm You re-organize your desk.",
+      "calm You sing the song that’s been stuck in your head.",
+      "calm You turn on Netflix and put your feet up."
     ],
     "cheerful": [
-      "adult cheerful 1",
-      "adult cheerful 2",
-      "adult cheerful 3"
+      "cheerful You hum as you make your favorite meal for your family.",
+      "cheerful You call your friend to meet you for a meal and catch up.",
+      "cheerful You see that a bird has made its home in your birdhouse."
     ],
     "cocky": [
-      "adult cocky 1",
-      "adult cocky 2",
-      "adult cocky 3"
+      "cocky You tell your friend that your daughter came in first in last week’s marathon.",
+      "cocky You boast that your children are going to become doctors.",
+      "cocky You tell your friends that you were a tennis champion back in the days."
     ],
     "courageous": [
-      "adult courageous 1",
-      "adult courageous 2",
-      "adult courageous 3"
+      "courageous You sign up for a yoga class because your spouse dares you to.",
+      "courageous You gather up the courage to sing your go-to song on open mic night at your local cafe.",
+      "courageous You decide to go zip-lining with your friends."
     ],
     "depressed": [
-      "adult depressed 1",
-      "adult depressed 2",
-      "adult depressed 3"
+      "depressed You see more gray hairs have sprung up when you look in the mirror.",
+      "depressed You realize you’ve already lived more than half of your life.",
+      "depressed You wonder if you or your spouse will die first."
     ],
     "determined": [
-      "adult determined 1",
-      "adult determined 2",
-      "adult determined 3"
+      "determined You buy two cans of paint, determined to paint the living room walls before the week ends.",
+      "determined You download a language app and set a goal to learn another language by next year.",
+      "determined You make a list of chores for the household to teach the kids responsibility."
     ],
     "disgust": [
-      "adult disgust 1",
-      "adult disgust 2",
-      "adult disgust 3"
+      "disgust Your son throws up in the backseat all over the dog.",
+      "disgust Your son tells you he’s been wearing his lucky pair of underpants for a month straight.",
+      "disgust You pull out a ball of hair the size of a fist from the shower drain."
     ],
     "embarrassed": [
-      "adult embarrassed 1",
-      "adult embarrassed 2",
-      "adult embarrassed 3"
+      "embarrassed You realize you put on two obviously different socks when you get to work.",
+      "embarrassed You run to your son when you see that he’s running around naked on your front yard.",
+      "embarrassed Your spouse demands that you hand over the brownie you snuck behind their back."
     ],
     "frustrated": [
-      "adult frustrated 1",
-      "adult frustrated 2",
-      "adult frustrated 3"
-    ],
-    "hopeful": [
-      "adult hopeful 1",
-      "adult hopeful 2",
-      "adult hopeful 3"
-    ],
-    "horrified": [
-      "adult horrified 1",
-      "adult horrified 2",
-      "adult horrified 3"
-    ],
-    "humiliated": [
-      "adult humiliated 1",
-      "adult humiliated 2",
-      "adult humiliated 3"
+      "frustrated Your stuck in traffic, and you’re already late for work.",
+      "frustrated You let out your breath and count to ten. Then you wonder if there’s any other method to teach your son how division works.",
+      "frustrated You find that your daughter still hasn’t cleaned her room."
     ],
     "lucky": [
-      "adult lucky 1",
-      "adult lucky 2",
-      "adult lucky 3"
-    ],
-    "insanity": [
-      "adult insanity 1",
-      "adult insanity 2",
-      "adult insanity 3"
+      "lucky You look at your kids and wonder how you got so lucky.",
+      "lucky You realize you forgot your phone at the restaurant. You go back and find that someone turned it into the cashier.",
+      "lucky You win $50 with your lottery ticket!"
     ],
     "insecurity": [
-      "adult insecurity 1",
-      "adult insecurity 2",
-      "adult insecurity 3"
+      "insecurity You wonder if your spouse has ever cheated on you.",
+      "insecurity You wonder if you aren’t attractive anymore.",
+      "insecurity You think you see more wrinkles as you examine your face in the mirror."
     ],
     "inspired": [
-      "adult inspired 1",
-      "adult inspired 2",
-      "adult inspired 3"
-    ],
-    "intimidated": [
-      "adult intimidated 1",
-      "adult intimidated 2",
-      "adult intimidated 3"
+      "inspired You watch your daughter play the piano and wonder if you can pick it up too.",
+      "inspired You go to your daughter’s high school art show and awe at the talent. ",
+      "inspired You find your old tool box and decide to make something this weekend."
     ],
     "lazy": [
-      "adult lazy 1",
-      "adult lazy 2",
-      "adult lazy 3"
+      "lazy You call in sick today because you don’t feel like getting out of bed.",
+      "lazy You ask your spouse if they can make food for you.",
+      "lazy You tell your spouse that you’ll finish cleaning the dishes later."
     ],
     "pessimistic": [
-      "adult pessimistic 1",
-      "adult pessimistic 2",
-      "adult pessimistic 3"
-    ],
-    "optimistic": [
-      "adult optimistic 1",
-      "adult optimistic 2",
-      "adult optimistic 3"
-    ],
-    "shame": [
-      "adult shame 1",
-      "adult shame 2",
-      "adult shame 3"
-    ],
-    "shy": [
-      "adult shy 1",
-      "adult shy 2",
-      "adult shy 3"
-    ],
-    "threatened": [
-      "adult threatened 1",
-      "adult threatened 2",
-      "adult threatened 3"
-    ],
-    "vengeful": [
-      "adult vengeful 1",
-      "adult vengeful 2",
-      "adult vengeful 3"
+      "pessimistic You reach for another donut because you think you’re gonna die soon anyway.",
+      "pessimistic You get another headache and wonder if you have a brain tumor.",
+      "pessimistic You cancel your gym membership because you know you’re never going to go."
     ],
     "death": [
-      "adult death 1",
-      "adult death 2",
-      "adult death 3"
+      "death ",
+      "death ",
+      "death "
     ],
     "hungry": [
-      "adult hungry 1",
-      "adult hungry 2",
-      "adult hungry 3"
+      "hungry You order pizza, buffalo wings, and mozzarella sticks over the phone.",
+      "hungry You stop by the drive-in near your work to get the burger you’ve been craving.",
+      "hungry You finish dinner and ask your son if he’s going to finish his mac and cheese."
     ]
   },
   "senior": {
     "love": [
-      "senior love 1 Congratulations! Your daughter just had her baby girl!",
-      "senior love 2 After you complain that your feet hurt, your significant other gives you a nice massage.",
-      "senior love 3 Your daughter calls and you share stories for an hour. "
-    ],
-    "hate": [
-      "senior angry 1",
-      "senior angry 2",
-      "senior angry 3"
+      "love  Congratulations! Your daughter just had her baby girl!",
+      "love  After you complain that your feet hurt, your significant other gives you a nice massage.",
+      "love  Your daughter calls and you share stories for an hour. "
     ],
     "despair": [
-      "senior despair 1 You drop your favorite pair of earrings down the drain.",
-      "senior despair 2 You can no longer do yoga because of your back.",
-      "senior despair 3 You trip on a rock on the way back home. You have a bruise on your left leg."
+      "despair  You drop your favorite pair of earrings down the drain.",
+      "despair  You can no longer do yoga because of your back.",
+      "despair  You trip on a rock on the way back home. You have a bruise on your left leg."
     ],
     "anger": [
-      "senior anger 1 A stranger yells at you for walking too slowly. ",
-      "senior anger 2 A woman bumps into you and almost knocks you down. She leaves without saying sorry.",
-      "senior anger 3 You discover you’ve been taken advantage of by your repairman because you don’t know much about heaters."
+      "anger A stranger yells at you for walking too slowly. ",
+      "anger A woman bumps into you and almost knocks you down. She leaves without saying sorry.",
+      "anger You discover you’ve been taken advantage of by your repairman because you don’t know much about heaters."
     ],
     "aggravation": [
-      "senior aggravation 1 You can no longer drive your car due to old age.",
-      "senior aggravation 2 You forgot to add money to your bank account. You leave the supermarket without your groceries.",
-      "senior aggravation 3 You drop the television remote into the crack behind the couch. Looks like you’ll have to wait to watch Wheel of Fortune until someone comes home to help you retrieve it."
+      "aggravation  You can no longer drive your car due to old age.",
+      "aggravation  You forgot to add money to your bank account. You leave the supermarket without your groceries.",
+      "aggravation  You drop the television remote into the crack behind the couch. Looks like you’ll have to wait to watch Wheel of Fortune until someone comes home to help you retrieve it."
     ],
     "happiness": [
-      "senior happiness 1 You win a  at the bingo tournament!",
-      "senior happiness 2 Your arthritis isn’t bothering you today.",
-      "senior happiness 3 Your daughter surprises you with a trip to the spa for your birthday!"
+      "happiness  You win a  at the bingo tournament!",
+      "happiness  Your arthritis isn’t bothering you today.",
+      "happiness  Your daughter surprises you with a trip to the spa for your birthday!"
     ],
     "anxiousness": [
-      "senior anxiousness 1 You are waiting to be picked up so you can attend the senior ball.",
-      "senior anxiousness 2 Your son isn’t answering his phone. You call again for the fifteenth time.",
-      "senior anxiousness 3 You find out that your daughter is in the ER. "
+      "anxiousness  You are waiting to be picked up so you can attend the senior ball.",
+      "anxiousness  Your son isn’t answering his phone. You call again for the fifteenth time.",
+      "anxiousness  You find out that your daughter is in the ER. "
     ],
     "sadness": [
-      "senior sadness 1 You are diagnosed with diabetes. Looks like you’ll have to watch what you eat.",
-      "senior sadness 2 You are too weak to carry your groceries back to your car.",
-      "senior sadness 3 You visit your mother’s grave with your children."
+      "sadness You are diagnosed with diabetes. Looks like you’ll have to watch what you eat.",
+      "sadness You are too weak to carry your groceries back to your car.",
+      "sadness You visit your mother’s grave with your children."
     ],
     "scared": [
-      "senior scared 1 You hear consistent banging on your front door and a gruff voice yelling to let him in.",
-      "senior scared 2 You see a ghost staring back at you in the bathroom mirror. Or was it just in your mind?",
-      "senior scared 3 You see a giant spider crawl under your bed. You grab a flashlight and a book, but can’t find it anywhere."
+      "scared You hear consistent banging on your front door and a gruff voice yelling to let him in.",
+      "scared You see a ghost staring back at you in the bathroom mirror. Or was it just in your mind?",
+      "scared You see a giant spider crawl under your bed. You grab a flashlight and a book, but can’t find it anywhere."
     ],
     "surprised": [
-      "senior surprised 1 Your son visits you and hands you a beautiful bouquet of wildflowers.",
-      "senior surprised 2 A stranger hands you a lottery ticket and wishes you luck.",
-      "senior surprised 3 A friendly woman helps you cross the street and tells you to have a great day."
+      "surprised  Your son visits you and hands you a beautiful bouquet of wildflowers.",
+      "surprised  A stranger hands you a lottery ticket and wishes you luck.",
+      "surprised  A friendly woman helps you cross the street and tells you to have a great day."
     ],
     "stressed": [
-      "senior stressed 1 You need to write your own will soon.",
-      "senior stressed 2 Your stomach is giving you trouble today. Better make a stop at the drug store.",
-      "senior stressed 3"
+      "stressed  You need to write your own will soon.",
+      "stressed  Your stomach is giving you trouble today. Better make a stop at the drug store.",
+      "stressed"
     ],
     "jealousy": [
-      "senior jealousy 1 Your neighbor is getting a free home makeover.",
-      "senior jealousy 2 Your friend bought the new sofa you had your eye on for a month.",
-      "senior jealousy 3 You look out the window and see a few kids laughing while playing soccer." 
+      "jealousy  Your neighbor is getting a free home makeover.",
+      "jealousy  Your friend bought the new sofa you had your eye on for a month.",
+      "jealousy  You look out the window and see a few kids laughing while playing soccer." 
     ],
     "curiosity": [
-      "senior curiosity 1 You find a note left on your door. You missed a package delivery from UPS.",
-      "senior curiosity 2 You watch a documentary about extra-terrestrials and wonder what is out there.",
-      "senior curiosity 3 You find a puzzle piece on the ground and wonder where it’s from."
+      "curiosity  You find a note left on your door. You missed a package delivery from UPS.",
+      "curiosity  You watch a documentary about extra-terrestrials and wonder what is out there.",
+      "curiosity  You find a puzzle piece on the ground and wonder where it’s from."
     ],
     "excitement": [
-      "senior excitement 1 New wheels! You upgrade to an electric wheelchair! Getting around will be a breeze!",
-      "senior excitement 2 You help your son plan a surprise party for your daughter.",
-      "senior excitement 3 Your apple pumpkin pie wins in the annual pie contest hosted by the local farmer’s market."
+      "excitement  New wheels! You upgrade to an electric wheelchair! Getting around will be a breeze!",
+      "excitement  You help your son plan a surprise party for your daughter.",
+      "excitement  Your apple pumpkin pie wins in the annual pie contest hosted by the local farmer’s market."
     ],
     "pride": [
-      "senior pride 1 You make your famous chili for the family gathering. It gets rave reviews!",
-      "senior pride 2 You teach your son how to make your traditional chicken noodle soup.",
-      "senior pride 3 Your daughter invites you to the launch of her new business."
+      "pride  You make your famous chili for the family gathering. It gets rave reviews!",
+      "pride  You teach your son how to make your traditional chicken noodle soup.",
+      "pride  Your daughter invites you to the launch of her new business."
     ],
     "greedy": [
-      "senior greedy 1 You just ate, but you spot the brownie you forgot you had in the fridge and decide you have room for more.",
-      "senior greedy 2 You wonder if you should have chosen a different occupation that would have left you with more money after retirement.",
-      "senior greedy 3 You pressure your daughter and son to have more children. They aren’t getting any younger!"
+      "greedy  You just ate, but you spot the brownie you forgot you had in the fridge and decide you have room for more.",
+      "greedy  You wonder if you should have chosen a different occupation that would have left you with more money after retirement.",
+      "greedy  You pressure your daughter and son to have more children. They aren’t getting any younger!"
     ],
     "alert": [
-      "senior alert 1 You see a bunch of skateboarders doing tricks as they cross the street. Better be careful crossing!",
-      "senior alert 2 *Beep! Beep! Beep!* You get an AMBER Alert on your phone.",
-      "senior alert 3 You smell gas in your home. You go to the stove and find that you haven’t completely shut off one of the stovetops."
+      "alert  You see a bunch of skateboarders doing tricks as they cross the street. Better be careful crossing!",
+      "alert  *Beep! Beep! Beep!* You get an AMBER Alert on your phone.",
+      "alert  You smell gas in your home. You go to the stove and find that you haven’t completely shut off one of the stovetops."
     ],
     "annoyed": [
-      "senior annoyed 1 The pharmacy forgets to refill your prescriptions. You’ll have to come back tomorrow.",
-      "senior annoyed 2 You find a twenty dollar bill stuck in the laundry basket. ",
-      "senior annoyed 3 Your television stops working. Your favorite show was on tonight!"
+      "annoyed  The pharmacy forgets to refill your prescriptions. You’ll have to come back tomorrow.",
+      "annoyed  You find a twenty dollar bill stuck in the laundry basket. ",
+      "annoyed  Your television stops working. Your favorite show was on tonight!"
     ],
     "amused": [
-      "senior amused 1 You see a small boy run up to a young girl and hand her some freshly plucked…stems.",
-      "senior amused 2 You watch a segment about dog hairstyling. Apparently square heads are in!",
-      "senior amused 3 Your grandchild tells you he has girl problems and asks why girls are so complicated."
+      "amused  You see a small boy run up to a young girl and hand her some freshly plucked…stems.",
+      "amused  You watch a segment about dog hairstyling. Apparently square heads are in!",
+      "amused  Your grandchild tells you he has girl problems and asks why girls are so complicated."
     ],
     "ashamed": [
-      "senior ashamed 1 You forget to send your son a birthday gift.",
-      "senior ashamed 2 You realize you haven’t cleaned the house in two months.",
-      "senior ashamed 3 You open the supply closet and a mountain of useless objects come tumbling down."
+      "ashamed  You forget to send your son a birthday gift.",
+      "ashamed  You realize you haven’t cleaned the house in two months.",
+      "ashamed  You open the supply closet and a mountain of useless objects come tumbling down."
     ],
     "attraction": [
-      "senior attraction 1 Your significant other wrote you a heart-warming card.",
-      "senior attraction 2 You notice your significant other wearing the socks you gave them at the beginning of the relationship.",
-      "senior attraction 3 You receive a box of your favorite pastries with a note saying, I love you."
+      "attraction  Your significant other wrote you a heart-warming card.",
+      "attraction  You notice your significant other wearing the socks you gave them at the beginning of the relationship.",
+      "attraction  You receive a box of your favorite pastries with a note saying, I love you."
     ],
     "betrayed": [
-      "senior betrayed 1 Your friend tells you they’re meeting Taylor later today. But Taylor told you she was out of town!",
-      "senior betrayed 2 Your significant other tells you their feeling too tired for date night tonight. But they promised!",
-      "senior betrayed 3 Your granddaughter tells you she’s going to name her daughter after her husband’s mother instead of yours."
+      "betrayed  Your friend tells you they’re meeting Taylor later today. But Taylor told you she was out of town!",
+      "betrayed  Your significant other tells you their feeling too tired for date night tonight. But they promised!",
+      "betrayed  Your granddaughter tells you she’s going to name her daughter after her husband’s mother instead of yours."
     ],
     "bitter": [
-      "senior bitter 1 You buy an expensive bouquet of flowers only to be told by your significant other that they hate lilies.",
-      "senior bitter 2 You lent your friend, Alex, twenty dollars. Alex says that never happened.",
-      "senior bitter 3 You read an article about seniors. Apparently seniors contribute nothing to society!"
+      "bitter  You buy an expensive bouquet of flowers only to be told by your significant other that they hate lilies.",
+      "bitter  You lent your friend, Alex, twenty dollars. Alex says that never happened.",
+      "bitter  You read an article about seniors. Apparently seniors contribute nothing to society!"
     ],
     "bored": [
-      "senior bored 1 You finish watching your movie and wonder what to do next.",
-      "senior bored 2 You want to bake, but don’t have the majority of the ingredients. What to do instead?",
-      "senior bored 3 You sit in your chair and watch the sky."
+      "bored  You finish watching your movie and wonder what to do next.",
+      "bored  You want to bake, but don’t have the majority of the ingredients. What to do instead?",
+      "bored  You sit in your chair and watch the sky."
     ],
     "calm": [
-      "senior calm You paint a sunset on the canvas and admire the colors.",
-      "senior calm You lie on the bed with your dog, Jack, snuggled in your armpit.",
-      "senior calm You sit on the sofa to read your newest book."
+      "calm You paint a sunset on the canvas and admire the colors.",
+      "calm You lie on the bed with your dog, Jack, snuggled in your armpit.",
+      "calm You sit on the sofa to read your newest book."
     ],
     "cheerful": [
-      "senior cheerful You open the window to hear the birds sing and smell the flowers.",
-      "senior cheerful You let the sun’s rays warm your face and think, The world is beautiful!",
-      "senior cheerful You eat a bowl of cheerios and laugh at your old photos."
+      "cheerful You open the window to hear the birds sing and smell the flowers.",
+      "cheerful You let the sun’s rays warm your face and think, The world is beautiful!",
+      "cheerful You eat a bowl of cheerios and laugh at your old photos."
     ],
     "cocky": [
-      "senior cocky You look in the mirror and admire your full head of hair.",
-      "senior cocky You boast to your friend that your granchildren got into an ivy league.",
-      "senior cocky You come in 1st in the marathon for seniors."
+      "cocky You look in the mirror and admire your full head of hair.",
+      "cocky You boast to your friend that your granchildren got into an ivy league.",
+      "cocky You come in st in the marathon for seniors."
     ],
     "courageous": [
-      "senior courageous You decide to perm your hair.",
-      "senior courageous You decide to tackle the toughest recipe in the book for the family gathering.",
-      "senior courageous 3"
+      "courageous You decide to perm your hair.",
+      "courageous You decide to tackle the toughest recipe in the book for the family gathering.",
+      "courageous "
     ],
     "depressed": [
-      "senior depressed You look at your hands and wonder when you’ll die.",
-      "senior depressed You text your grandchildren and they use a new teenage slang that you don't understand.",
-      "senior depressed You decide you don’t want to go shopping after all because you think you’re too old to dress fashionably."
+      "depressed You look at your hands and wonder when you’ll die.",
+      "depressed You text your grandchildren and they use a new teenage slang that you don't understand.",
+      "depressed You decide you don’t want to go shopping after all because you think you’re too old to dress fashionably."
     ],
     "determined": [
-      "senior determined You are determined to organize your photos today. It will get done!",
-      "senior determined You decide to start watching the news from now on.",
-      "senior determined You decide you’re going to start exercising again. Now to find my sneakers!"
+      "determined You are determined to organize your photos today. It will get done!",
+      "determined You decide to start watching the news from now on.",
+      "determined You decide you’re going to start exercising again. Now to find my sneakers!"
     ],
     "disgust": [
-      "senior disgust You find that the banana you left out a week ago is shriveled and covered in fruit flies.",
-      "senior disgust You drag a finger across the bookshelf and find your finger covered in black dust.",
-      "senior disgust You see people walking in the streets staring at their phones."
+      "disgust You find that the banana you left out a week ago is shriveled and covered in fruit flies.",
+      "disgust You drag a finger across the bookshelf and find your finger covered in black dust.",
+      "disgust You see people walking in the streets staring at their phones."
     ],
     "embarrassed": [
-      "senior embarrassed Your grandchild asks you what 9 times 8 is, but you forgot years ago.",
-      "senior embarrassed You tell your son you don’t remember what your phone number is.",
-      "senior embarrassed Your daughter tells you you accidentally bought squash instead of cucumbers."
+      "embarrassed Your grandchild asks you what 9 times 8 is, but you forgot years ago.",
+      "embarrassed You tell your son you don’t remember what your phone number is.",
+      "embarrassed Your daughter tells you she accidentally bought squash instead of cucumbers."
     ],
     "frustrated": [
-      "senior frustrated You can barely touch your feet anymore.",
-      "senior frustrated You know you left your keys somewhere in your home, but can’t remember where.",
-      "senior frustrated Your shoe laces keep getting untied."
+      "frustrated You can barely touch your feet anymore.",
+      "frustrated You know you left your keys somewhere in your home, but can’t remember where.",
+      "frustrated Your shoe laces keep getting untied."
     ],
     "hopeful": [
-      "senior hopeful You buy a lottery ticket because it feels like a good day.",
-      "senior hopeful You find your mother’s old earrings and wonder if the matching necklace is somewhere as well.",
-      "senior hopeful You wonder who your next grandchild will look like."
+      "hopeful You buy a lottery ticket because it feels like a good day.",
+      "hopeful You find your mother’s old earrings and wonder if the matching necklace is somewhere as well.",
+      "hopeful You wonder who your next grandchild will look like."
     ],
     "horrified": [
-      "senior horrified You spend all afternoon finishing your 400 piece puzzle. When you go to the kitchen, you see that your dog has destroyed the puzzle and is now gnawing on a piece.",
-      "senior horrified You’ve been walking around with a large brown stain on the bottom of your pants. So that’s where the bar of chocolate went!",
-      "senior horrified You drop your wallet into the crack as the elevator door opens."
+      "horrified You spend all afternoon finishing your 400 piece puzzle. When you go to the kitchen, you see that your dog has destroyed the puzzle and is now gnawing on a piece.",
+      "horrified You’ve been walking around with a large brown stain on the bottom of your pants. So that’s where the bar of chocolate went!",
+      "horrified You drop your wallet into the crack as the elevator door opens."
     ],
     "humiliated": [
-      "senior humiliated You realize you’ve been walking around with your fly unzipped.",
-      "senior humiliated You just peed yourself in public.",
-      "senior humiliated You realize you forgot how to do long division when you look at your grandson’s homework."
+      "humiliated You realize you’ve been walking around with your fly unzipped.",
+      "humiliated You just peed yourself in public.",
+      "humiliated You realize you forgot how to do long division when you look at your grandson’s homework."
     ],
     "lucky": [
-      "senior lucky A marathon of your favorite show is on! Grab some popcorn!",
-      "senior lucky You find a twenty dollar bill stuck in the laundry basket.",
-      "senior lucky You are having a great hair day!"
-    ],
-    "insanity": [
-      "senior insanity 1",
-      "senior insanity 2",
-      "senior insanity 3"
+      "lucky A marathon of your favorite show is on! Grab some popcorn!",
+      "lucky You find a twenty dollar bill stuck in the laundry basket.",
+      "lucky You are having a great hair day!"
     ],
     "insecurity": [
-      "senior insecurity You look at your hair and wonder if it’s time for a change.",
-      "senior insecurity You wonder if you should get your gray hairs dyed black.",
-      "senior insecurity You wonder if you should skip the cheese on your pasta today."
+      "insecurity You look at your hair and wonder if it’s time for a change.",
+      "insecurity You wonder if you should get your gray hairs dyed black.",
+      "insecurity You wonder if you should skip the cheese on your pasta today."
     ],
     "inspired": [
-      "senior inspired You find your old drawing tools and decide to start drawing again.",
-      "senior inspired The sky looks beautiful today. You take a photograph to keep it as inspiration.",
-      "senior inspired You find your collection of stamps and decide to continue again."
-    ],
-    "intimidated": [
-      "senior intimidated 1",
-      "senior intimidated 2",
-      "senior intimidated 3"
+      "inspired You find your old drawing tools and decide to start drawing again.",
+      "inspired The sky looks beautiful today. You take a photograph to keep it as inspiration.",
+      "inspired You find your collection of stamps and decide to continue again."
     ],
     "lazy": [
-      "senior lazy 1 You regret eating the extra slice of apple pie. You’re too full to move.",
-      "senior lazy 2",
-      "senior lazy 3"
+      "lazy  You regret eating the extra slice of apple pie. You’re too full to move.",
+      "lazy ",
+      "lazy "
     ],
     "pessimistic": [
-      "senior pessimistic You decide learning to play sudoku will be a waste of time.",
-      "senior pessimistic You go through a carton of ice cream and wonder if you’ve done anything with your life.",
-      "senior pessimistic You wonder why anyone works hard in life when we’re all going to die anyway."
-    ],
-    "optimistic": [
-      "senior optimistic 1",
-      "senior optimistic 2",
-      "senior optimistic 3"
-    ],
-    "shame": [
-      "senior shame 1",
-      "senior shame 2",
-      "senior shame 3"
-    ],
-    "shy": [
-      "senior shy 1",
-      "senior shy 2",
-      "senior shy 3"
-    ],
-    "threatened": [
-      "senior threatened 1",
-      "senior threatened 2",
-      "senior threatened 3"
-    ],
-    "vengeful": [
-      "senior vengeful 1",
-      "senior vengeful 2",
-      "senior vengeful 3"
+      "pessimistic You decide learning to play sudoku will be a waste of time.",
+      "pessimistic You go through a carton of ice cream and wonder if you’ve done anything with your life.",
+      "pessimistic You wonder why anyone works hard in life when we’re all going to die anyway."
     ],
     "death": [
-      "senior death 1",
-      "senior death 2",
-      "senior death 3"
+      "death ",
+      "death ",
+      "death "
     ],
     "hungry": [
-      "senior hungry You open the freezer to get a scoop of that new flavor of Ben & Jerry’s you bought last weekend.",
-      "senior hungry You open the drawer and take out the pile of takeout menus. Now what to order?",
-      "senior hungry You make a pb&j sandwich almost 5cm high."
+      "hungry You open the freezer to get a scoop of that new flavor of Ben & Jerry’s you bought last weekend.",
+      "hungry You open the drawer and take out the pile of takeout menus. Now what to order?",
+      "hungry You make a pb&j sandwich almost 5cm high."
     ]
   }
 

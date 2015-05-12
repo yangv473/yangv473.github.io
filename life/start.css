@@ -1,11 +1,57 @@
-body {
-	-webkit-transition: all 500ms;
-	transition: all 500ms;
+@-webkit-keyframes fade-in{
+    from{
+    	color:black;
+        opacity:1;
+        top:20px;
+    }
+    to{
+    	color:white;
+    	opacity:1;
+        top:20px;
+    }
+}
+@-webkit-keyframes fade-out{
+    from{
+    	color:white;
+    	opacity:1;
+        top:20px;
+    }
+    to{
+    	color:black;
+        opacity:1;
+        top:20px;
+    }
 }
 
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+	/*letter-spacing: 1px;*/
+/*	-webkit-transition: all 450ms;
+	transition: all 500ms;*/
+}
+.gradient{
+	-webkit-transition: all 450ms;
+	transition: all 500ms;
+}
+.game{
+	margin-left: 20px;
+}
+p{
+	margin-top: 5px;
+}
 .wrapper{
 	margin-left: 10px;
 	margin-top: 10px;
+}
+.time-gif{
+	position: fixed;
+	top:23px;
+	right:0;
+	margin-right: 90px;
 }
 .gradient-1{
 	background: #040f16; /* Old browsers */
@@ -18,10 +64,6 @@ body {
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#040f16', endColorstr='#0b1c42',GradientType=0 ); /* IE6-9 */
 	color:white;
 }
-
-/*.gradient-1 {
-	background-image: url('../blahblah.jpg');
-}*/
 
 .gradient-2{
 	background: #0b2e45; /* Old browsers */
@@ -106,30 +148,54 @@ body {
 }
 
 .death {
+	-webkit-transition: all 450ms;
+	transition: all 500ms;
 	background: #000;
 	color:#202020;
 }
 
+::-webkit-scrollbar { 
+    display: none; 
+}
 
 .story{
+	-webkit-transition: all 500ms;
+	transition: all 500ms;
 	overflow: scroll;
 	height:100%;
-	width:100%;
+	width:700px;
+	margin-top: 30px;
+	display:inline-block;
+	font-family: Futura;
 }
 .live{
+	-webkit-animation:fade-out 3s infinite;
+	cursor:pointer;
 	font-family: Futura;
 	display:inline-block;
-	position: absolute;
+	position: fixed;
 	right:20px;
 	top:20px;
+	margin-right: 10px;
+}
+.auto{
+	cursor:pointer;
+	font-family: Futura;
+	display:inline-block;
+	position: fixed;
+	right:20px;
+	bottom:20px;
+	margin-right: 10px;
 }
 .door{
 	transform: rotate(-90deg);
 	transform-origin: center center 0;
 	position: fixed;
-	bottom:85px;
+	bottom:153px;
 	left:20%;
 	font-family: Futura;
+	font-size: 16px;
+	margin-top: 10px;
 }
 .window{
 	transform: rotate(90deg);
@@ -139,14 +205,16 @@ body {
 	right:17%;
 	font-family: Futura;
 }
-h4{
-	font-family: Futura;
-	font-size: 20px;
-}
-.life-event {
+.life{
+	margin-top: 30px;
 	font-family: Futura;
 	font-size: 18px;
-	margin-top: 5px;
+}
+.life-event {
+	line-height: 180%;
+	font-family: Futura;
+	font-size: 16px;
+	margin-top: 10px;
 }
 button:focus {
     outline:none;
@@ -154,12 +222,13 @@ button:focus {
 }
 button{
 	font-size: 15px;
-	border: 2px solid;
+	border: 1px solid;
 	background-color: transparent;
 	padding:5px;
 	padding-left: 10px;
 	padding-right: 10px;
 }
+
 .close{
 	cursor:pointer;
 	text-align: center;
@@ -171,7 +240,7 @@ button{
 	padding-left:8px;
 	padding-right:8px;
 	position:fixed;
-	border:2px solid;
+	border:1px solid;
 	font-size: 17px;
 	font-family: Futura;
 	left: 40%;
@@ -194,7 +263,7 @@ button{
 .person{
 	background-image: url("student.png");
 	background-color: none;
-	border: 2px solid rgba(0, 0, 0, .1);
+	border: 1px solid rgba(0, 0, 0, .1);
     -webkit-background-clip: padding-box; /* for Safari */
     background-clip: padding-box; /* for IE9+, Firefox 4+, Opera, Chrome */
 	width:30px;
@@ -207,7 +276,7 @@ button{
 	cursor:pointer;
 	width:30px;
 	height:30px;
-	border:2px solid;
+	border:1px solid;
 	display:inline-block;
 	margin-right:7px;
 	margin-top: 7px;
@@ -218,16 +287,29 @@ button{
 }
 .teacher{
 	position: fixed;
-	bottom:45px;
+	bottom:64px;
 	left:44%;
 	font-family: Futura;
 }
+
 .special-event {
-	border:solid;
 	display: none;
+	width: 100vw;
+	height: 100vh;
+	position: fixed;
+	top: 0;
+	left: 0;
+	background-color: rgba(0,0,0,0.7);	
+}
+
+.special-event .sit-chart {
+	background-color: white;  
+	-moz-box-shadow: 5px 5px 20px black;
+	-webkit-box-shadow: 5px 5px 20px black;
+	box-shadow: 5px 5px 20px black;
+	border:1px solid;
 	width: 370px;
 	height: 300px;
-	background: none;
 	color: black;
 	padding: 30px;
 	position: fixed;
@@ -238,11 +320,60 @@ button{
 	-o-transform: translate(-50%, -50%);
 	transform: translate(-50%, -50%);
 }
-
+.commentary{
+	line-height: 150%;
+	width:700;
+	font-family: Futura;
+	font-size: 15px;
+}
+.time{
+	display: inline-block;
+}
+.time-icon{
+	display:inline-block;
+}
+.time-img {
+	position: relative;
+	padding-right: 10px;
+	top: 7px;
+	width:25px;
+}
 .special-event.show {
 	display: block;
 }
 
 .is-hidden {
 	display: none;
+}
+
+.semi-event {
+	margin-top: 10px;
+	color: black;
+
+	animation-name: semi-event-fade-in;
+	animation-duration: 3000ms;
+	animation-fill-mode: forwards;
+	-webkit-animation-name: semi-event-fade-in;
+	-webkit-animation-duration: 3000ms;
+	-webkit-animation-fill-mode: forwards;
+}
+
+@keyframes semi-event-fade-in {
+	from {
+		opacity: 0;
+	}
+
+	to {
+		opacity: 1;
+	}
+}
+
+@-webkit-keyframes semi-event-fade-in {
+	from {
+		opacity: 0;
+	}
+
+	to {
+		opacity: 1;
+	}
 }
