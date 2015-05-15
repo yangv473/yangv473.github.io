@@ -264,14 +264,16 @@ button{
 	margin: 0 auto;
 }
 .items:focus{
-	border: 3px solid;
+	border: 2px solid red;
 }
 .items{
 	margin-top: 5px;
 	width:400px;
-	border: 1px solid;
+	border: 2px solid white;
+	outline:1px solid black;
 }
 .bag{
+	margin-left: 10px;
 	margin-top: 8px;
 	background-image: url("luggage.png");
 	background-repeat: no-repeat;
@@ -285,12 +287,26 @@ button{
 
 .icecream{
 	margin-top: 55px;
-	border: 1px solid;
+	border: 2px solid white;
+	outline: 1px solid black;
 }
 .icecream:focus{
-	border: 3px solid red;
+	border: 2px solid red;
+}
+.metro{
+	margin-left: 5px;
+	margin-top: 20px;
+	border: 2px solid white;
+	outline: 1px solid black;
+}
+.metro:focus{
+	border: 2px solid red;
+}
+.met{
+	width:85px;
 }
 .item{
+	margin-left: 10px;
 	width:45px;
 	height:75px;
 	background-image: url("luggage.png");
@@ -399,6 +415,15 @@ button{
 	background-color: rgba(0,0,0,0.7);	
 }
 .special-adult-event {
+	display: none;
+	width: 100vw;
+	height: 100vh;
+	position: fixed;
+	top: 0;
+	left: 0;
+	background-color: rgba(0,0,0,0.7);	
+}
+.special-adulttwo-event {
 	display: none;
 	width: 100vw;
 	height: 100vh;

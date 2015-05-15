@@ -1,4 +1,201 @@
 {
+  "infant": {
+    "love": [
+      "Someone cradles you against your chest and kisses your forehead.",
+      "Someone cradles you against your chest and kisses your forehead.",
+      "Someone cradles you against your chest and kisses your forehead."
+    ],
+    "despair": [
+      "You hit your head on the table.",
+      "You hit your head on the table.",
+      "You hit your head on the table."
+    ],
+    "anger": [
+      "You scream at the top of your lungs when someone takes away your binky.",
+      "You scream at the top of your lungs when someone takes away your binky.",
+      "You scream at the top of your lungs when someone takes away your binky."
+    ],
+    "aggravation": [
+      "A man just stares at you, not understanding that you want to be held.",
+      "A man just stares at you, not understanding that you want to be held.",
+      "A man just stares at you, not understanding that you want to be held."
+    ],
+    "happiness": [
+      "You snuggle into the softest blanket in the world.",
+      "You snuggle into the softest blanket in the world.",
+      "You snuggle into the softest blanket in the world."
+    ],
+    "anxiousness": [
+      "You wonder when someone will give you food.",
+      "You wonder when someone will give you food.",
+      "You wonder when someone will give you food."
+    ],
+    "sadness": [
+      "You’re left alone in the jail with walls too high for you to crawl out of.",
+      "You’re left alone in the jail with walls too high for you to crawl out of.",
+      "You’re left alone in the jail with walls too high for you to crawl out of."
+    ],
+    "scared": [
+      "Someone yells “BOO!” behind you and you start to cry.",
+      "Someone yells “BOO!” behind you and you start to cry.",
+      "Someone yells “BOO!” behind you and you start to cry."
+    ],
+    "surprised": [
+      "Someone’s eyes magically appear and disappear as they say “Peekaboo!”",
+      "Someone’s eyes magically appear and disappear as they say “Peekaboo!”",
+      "Someone’s eyes magically appear and disappear as they say “Peekaboo!”"
+    ],
+    "stressed": [
+      "You need to make a poo, but nothing is coming out.",
+      "You need to make a poo, but nothing is coming out.",
+      "You need to make a poo, but nothing is coming out."
+    ],
+    "jealousy": [
+      "You see another small human like yourself shaking a very exciting toy.",
+      "You see another small human like yourself shaking a very exciting toy.",
+      "You see another small human like yourself shaking a very exciting toy."
+    ],
+    "curiosity": [
+      "You crawl over to the blocks and start banging them together.",
+      "You crawl over to the blocks and start banging them together.",
+      "You crawl over to the blocks and start banging them together."
+    ],
+    "excitement": [
+      "You hear a very lovely combination of sounds and start jumping up and down.",
+      "You hear a very lovely combination of sounds and start jumping up and down.",
+      "You hear a very lovely combination of sounds and start jumping up and down."
+    ],
+    "pride": [
+      "You let out a large burp and smile contently.",
+      "You let out a large burp and smile contently.",
+      "You let out a large burp and smile contently."
+    ],
+    "greedy": [
+      "You splay your arms out and gather as many jars of baby food in your arms.",
+      "You splay your arms out and gather as many jars of baby food in your arms.",
+      "You splay your arms out and gather as many jars of baby food in your arms."
+    ],
+    "alert": [
+      "You hear a very loud “BEEP! BEEP! BEEP!”",
+      "You hear a very loud “BEEP! BEEP! BEEP!”",
+      "You hear a very loud “BEEP! BEEP! BEEP!”"
+    ],
+    "annoyed": [
+      "Someone gives you the wrong blanket. So itchy!",
+      "Someone gives you the wrong blanket. So itchy!",
+      "Someone gives you the wrong blanket. So itchy!"
+    ],
+    "amused": [
+      "You watch the small furry thing on four legs spin in fast circles for some time.",
+      "You watch the small furry thing on four legs spin in fast circles for some time.",
+      "You watch the small furry thing on four legs spin in fast circles for some time."
+    ],
+    "ashamed": [
+      "Your face hits the ground as your arm suddenly buckles.",
+      "Your face hits the ground as your arm suddenly buckles.",
+      "Your face hits the ground as your arm suddenly buckles."
+    ],
+    "attraction": [
+      "Someone picks you up and starts rocking back and forth.",
+      "Someone picks you up and starts rocking back and forth.",
+      "Someone picks you up and starts rocking back and forth."
+    ],
+    "betrayed": [
+      "You see your feeder feed someone else when you’re starving!",
+      "You see your feeder feed someone else when you’re starving!",
+      "You see your feeder feed someone else when you’re starving!"
+    ],
+    "bitter": [
+      "You throw your rattle on the floor and run across the room.",
+      "You throw your rattle on the floor and run across the room.",
+      "You throw your rattle on the floor and run across the room."
+    ],
+    "bored": [
+      "You lie with your legs in the air.",
+      "You lie with your legs in the air.",
+      "You lie with your legs in the air."
+    ],
+    "calm": [
+      "You lay your head on this person’s shoulder and close your eyes.",
+      "You lay your head on this person’s shoulder and close your eyes.",
+      "You lay your head on this person’s shoulder and close your eyes."
+    ],
+    "cheerful": [
+      "You giggle at the person making weird faces.",
+      "You giggle at the person making weird faces.",
+      "You giggle at the person making weird faces."
+    ],
+    "cocky": [
+      "You wait, knowing someone will come to fuss over you and feed you.",
+      "You wait, knowing someone will come to fuss over you and feed you.",
+      "You wait, knowing someone will come to fuss over you and feed you."
+    ],
+    "courageous": [
+      "You try lifting your body with just your two legs, but fall over almost instantly.",
+      "You try lifting your body with just your two legs, but fall over almost instantly.",
+      "You try lifting your body with just your two legs, but fall over almost instantly."
+    ],
+    "depressed": [
+      "You don’t feel like even lifting your head today.",
+      "You don’t feel like even lifting your head today.",
+      "You don’t feel like even lifting your head today."
+    ],
+    "determined": [
+      "You crawl over to the stack of toys, determined to grab the ball.",
+      "You crawl over to the stack of toys, determined to grab the ball.",
+      "You crawl over to the stack of toys, determined to grab the ball."
+    ],
+    "disgust": [
+      "You smell a very foul odor and crinkle your nose. You realize it is coming from you.",
+      "You smell a very foul odor and crinkle your nose. You realize it is coming from you.",
+      "You smell a very foul odor and crinkle your nose. You realize it is coming from you."
+    ],
+    "embarrassed": [
+      "Someone you don’t recognize picks you up and you immediately throw up on them.",
+      "Someone you don’t recognize picks you up and you immediately throw up on them.",
+      "Someone you don’t recognize picks you up and you immediately throw up on them."
+    ],
+    "frustrated": [
+      "You make noises telling the person in front of you to give you your bear. When they hand you your rattle you throw it on the floor.",
+      "You make noises telling the person in front of you to give you your bear. When they hand you your rattle you throw it on the floor.",
+      "You make noises telling the person in front of you to give you your bear. When they hand you your rattle you throw it on the floor."
+    ],
+    "horrified": [
+      "You see the small furry thing on four legs with your rattle in their mouth.",
+      "You see the small furry thing on four legs with your rattle in their mouth.",
+      "You see the small furry thing on four legs with your rattle in their mouth."
+    ],
+    "lucky": [
+      "You’re able to escape the room because a small furry thing on four legs opens the door.",
+      "You’re able to escape the room because a small furry thing on four legs opens the door.",
+      "You’re able to escape the room because a small furry thing on four legs opens the door."
+    ],
+    "inspired": [
+      "You see someone dance very beautifully and try to copy their moves.",
+      "You see someone dance very beautifully and try to copy their moves.",
+      "You see someone dance very beautifully and try to copy their moves."
+    ],
+    "lazy": [
+      "You stop crawling and just lay on the floor. Someone will pick you up and take you to your bed eventually.",
+      "You stop crawling and just lay on the floor. Someone will pick you up and take you to your bed eventually.",
+      "You stop crawling and just lay on the floor. Someone will pick you up and take you to your bed eventually."
+    ],
+    "pessimistic": [
+      "You think to yourself that you’ll be trapped here all day.",
+      "You think to yourself that you’ll be trapped here all day.",
+      "You think to yourself that you’ll be trapped here all day."
+    ],
+    "death": [
+      "You die of asphyxia.",
+      "You die of whooping cough.",
+      "A large TV screen falls on you."
+    ],
+    "hungry": [
+      "You smack your lips and cry for attention. ",
+      "You smack your lips and cry for attention.",
+      "You smack your lips and cry for attention."
+    ]
+  },
   "child": {
     "love": [
       "Your mom surprises you with the new toy you’ve been asking for! She’s the best!",
@@ -23,7 +220,7 @@
     "happiness": [
       "Your parents buy you a new pair of sneakers at the mall.",
       "You get to go to two birthdays this week!",
-      "Your mother allowed you to get the gummy candy at the grocery store. You didn't need to cry."
+      "Your mother allows you to get the gummy candy at the grocery store."
     ],
     "anxiousness": [
       "You're captivated by your favorite tv show, but you really need to go to the bathroom!",
@@ -315,7 +512,7 @@
     "bored": [
       "You have no plans and none of your friends are answering their phones.",
       "You have two more hours until your shift ends and nothing to do.",
-      "You look at the clock and wish it to go faster. Fifmore minutes!"
+      "You look at the clock and wish it to go faster. Five more minutes!"
     ],
     "calm": [
       "You watch reruns of the show you used to while lying on the bed.",

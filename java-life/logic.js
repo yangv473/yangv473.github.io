@@ -15,7 +15,7 @@ $.ajax({
 var Life = {
   clicks : 0,
   age    : 0,
-  stage  : 'child',
+  stage  : 'infant',
   infant : 5,
   child  : 15,
   teen   : 30,
@@ -101,7 +101,9 @@ function newLifeEvent() {
     render_special_child_event();
     render_special_teen_event();
     render_special_adult_event();
+    render_special_adulttwo_event();
     render_semi_event();
+    render_infant_event();
     render_teen_event();
     render_adult_event();
     render_senior_event();
@@ -113,7 +115,7 @@ function newLifeEvent() {
 
 // the pop ups/special events-------------------------------------------------------------------
 function render_special_event() {
-  if (Life.clicks === 10) {
+  if (Life.clicks === 14) {
     clearInterval(eventInterval);
     $('.special-event-1').addClass('show');
   }
@@ -124,7 +126,7 @@ $('.square').click(function() {
   $(this).addClass('smile');
 });
 function render_special_child_event() {
-  if (Life.clicks === 6) {
+  if (Life.clicks === 7) {
     clearInterval(eventInterval);
     $('.special-child-event').addClass('show');
   }
@@ -158,10 +160,23 @@ function render_special_adult_event() {
     $('.special-adult-event').addClass('show');
   }
 }
-
-
-function render_semi_event() {
+function render_special_adulttwo_event() {
+  if (Life.clicks === 50) {
+    clearInterval(eventInterval);
+    $('.special-adulttwo-event').addClass('show');
+  }
+}
+function render_infant_event() {
   if (Life.clicks == 1) {
+    var htmlEvent = document.createElement('p');
+    htmlEvent.innerHTML = 'You are now an infant';
+    htmlEvent.classList.add('semi-event');
+    $('.story').prepend(htmlEvent);
+
+  }
+}
+function render_semi_event() {
+  if (Life.clicks == 6) {
     var htmlEvent = document.createElement('p');
     htmlEvent.innerHTML = 'You are now a child';
     htmlEvent.classList.add('semi-event');
@@ -260,13 +275,15 @@ function setTime() {
 function increment_timeline() {
   Life.clicks += 1;
 
-  if (Life.clicks <= 15) {
+  if (Life.clicks <= 5) {
+    Life.stage = 'infant';
+  } else if (Life.clicks > 5 && Life.clicks <= 15) {
     Life.stage = 'child';
   } else if (Life.clicks > 15 && Life.clicks <= 30) {
     Life.stage = 'teen';
   } else if (Life.clicks > 30 && Life.clicks <= 90) {
     Life.stage = 'adult';
-  } else if (Life.clicks > 90 && Life.clicks <= 130) {
+  }else if (Life.clicks > 90 && Life.clicks <= 130) {
     Life.stage = 'senior';
   }
 }
