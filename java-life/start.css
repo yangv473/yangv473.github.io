@@ -195,9 +195,6 @@ p{
 .live:active{
 	cursor:pointer;
 	color:white;
-	font-family: Futura;
-	display:inline-block;
-	position: fixed;
 }
 .auto-live{
 	-webkit-animation:fade-out 5000ms infinite;
