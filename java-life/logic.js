@@ -145,6 +145,7 @@ $('.close').click(function() {
   $('.special-adult-event').removeClass('show');
   $('.special-child-event').removeClass('show');
   $('.special-event-1').removeClass('show');
+  $('.special-adulttwo-event').removeClass('show');
 });
 $('.exit').click(function() {
   if (Life.auto_live) {
