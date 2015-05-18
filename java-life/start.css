@@ -518,10 +518,27 @@ button{
 	display: none;
 }
 
-.semi-event {
+.semi-event-infant {
 	margin-top: 10px;
 	color: black;
-
+}
+.semi-event-child {
+	margin-top: 10px;
+	color: black;
+}
+.semi-event-teen {
+	margin-top: 10px;
+	color: black;
+}
+.semi-event-adult {
+	margin-top: 10px;
+	color: black;
+}
+.semi-event-senior {
+	margin-top: 10px;
+	color: black;
+}
+.blink {
 	-webkit-animation:fade-out 3000ms infinite;
 }
 

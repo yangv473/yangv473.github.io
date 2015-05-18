@@ -108,6 +108,7 @@ function newLifeEvent() {
     render_adult_event();
     render_senior_event();
     render_event();
+    blinking();
   } else {
     $('body').removeClass().addClass('death');
   }
@@ -171,34 +172,32 @@ function render_infant_event() {
   if (Life.clicks == 1) {
     var htmlEvent = document.createElement('p');
     htmlEvent.innerHTML = 'You are now an infant';
-    htmlEvent.classList.add('semi-event');
+    htmlEvent.classList.add('semi-event-infant');
     $('.story').prepend(htmlEvent);
-
   }
 }
 function render_semi_event() {
   if (Life.clicks == 6) {
     var htmlEvent = document.createElement('p');
     htmlEvent.innerHTML = 'You are now a child';
-    htmlEvent.classList.add('semi-event');
+    htmlEvent.classList.add('semi-event-child');
     $('.story').prepend(htmlEvent);
-
   }
 }
+
 function render_teen_event() {
   if (Life.clicks == 16) {
     var htmlEvent = document.createElement('p');
     htmlEvent.innerHTML = 'You are now a teen';
-    htmlEvent.classList.add('semi-event');
+    htmlEvent.classList.add('semi-event-teen');
     $('.story').prepend(htmlEvent);
-
   }
 }
 function render_adult_event() {
   if (Life.clicks == 31) {
     var htmlEvent = document.createElement('p');
     htmlEvent.innerHTML = 'You are now an adult';
-    htmlEvent.classList.add('semi-event');
+    htmlEvent.classList.add('semi-event-adult');
     $('.story').prepend(htmlEvent);
 
   }
@@ -207,7 +206,7 @@ function render_senior_event() {
   if (Life.clicks == 91) {
     var htmlEvent = document.createElement('p');
     htmlEvent.innerHTML = 'You are now a senior';
-    htmlEvent.classList.add('semi-event');
+    htmlEvent.classList.add('semi-event-senior');
     $('.story').prepend(htmlEvent);
 
   }
@@ -289,5 +288,22 @@ function increment_timeline() {
   }
 }
 
+function blinking() {
+  if (Life.stage === "infant") {
+    $('.semi-event-infant').addClass('blink');
+  }else if (Life.stage === "child") {
+    $('.semi-event-child').addClass('blink');
+    $('.semi-event-infant').removeClass('blink');
+  }else if (Life.stage === "teen") {
+    $('.semi-event-teen').addClass('blink');
+    $('.semi-event-child').removeClass('blink');
+  }else if (Life.stage === "adult") {
+    $('.semi-event-adult').addClass('blink');
+    $('.semi-event-teen').removeClass('blink');
+  }else if (Life.stage === "senior") {
+    $('.semi-event-senior').addClass('blink');
+    $('.semi-event-adult').removeClass('blink');
+  }
+}
 
 
